@@ -1,0 +1,32 @@
+Real time 	Temp_Tip 	Temp_Ceramic 	temp_Flange 	N2 Flow 	MV 	
+0:00:01.001288,21.407,21.102,21.305,,-23.034
+0:00:01.821444,21.373,21.136,21.305,"Error trying to execute readMeasurement(): Not enough data received
+",-3.767
+0:00:02.636848,21.339,21.204,21.339,": Not enough data received
+",-3.881
+0:00:03.553301,21.339,21.204,21.305,"Error trying to execute readMeasurement(): Not enough data received
+",-3.883
+0:00:04.467401,21.407,21.238,21.339,"Error trying to execute readMeasurement(): Not enough data received
+",-3.849
+0:00:05.282019,21.339,21.238,21.373,"): Not enough data received
+",-3.849
+0:00:06.096764,21.305,21.238,21.339,"ror trying to execute readMeasurement(): Not enough data received
+",-3.849
+0:00:06.911705,21.305,21.238,21.373,"Error trying to execute readMeasurement(): Not enough data received
+",-3.849
+0:00:07.723498,21.373,21.204,21.271,"Error trying to execute readMeasurement(): Not enough data received
+",-3.807
+0:00:08.538473,21.339,21.238,21.407,"Error trying to execute readMeasurement(): Not enough data received
+",-3.845
+0:00:09.353628,21.373,21.204,21.305,"Error trying to execute readMeasurement(): Not enough data received
+",-3.845
+0:00:10.167883,21.474,21.204,21.339,"ta received
+",-3.845
+0:00:10.982614,21.373,21.17,21.339,"cute readMeasurement(): Not enough data received
+",-3.803
+0:00:11.794532,21.339,21.238,21.339,"asurement(): Not enough data received
+",-3.882
+0:00:12.609303,21.339,21.17,21.373,": Not enough data received
+",-3.679
+0:00:12.609303,21.372723,21.192514,21.347944,": Not enough data received
+"

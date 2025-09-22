@@ -1,0 +1,2272 @@
+Real time 	Temp_Tip 	Temp_Ceramic 	temp_Flange 	N2 Flow 	MV 	
+0:00:01.001208,25.802,25.768,25.531,,-107.139
+0:00:01.848106,25.802,25.768,25.498,"Error trying to execute readMeasurement(): Not enough data received
+",-17.648
+0:00:02.662823,25.802,25.836,25.531,"Error trying to execute readMeasurement(): Not enough data received
+",-17.618
+0:00:03.474696,25.836,25.836,25.498,"Error trying to execute readMeasurement(): Not enough data received
+",-17.497
+0:00:04.289533,25.836,25.836,25.531,"Error trying to execute readMeasurement(): Not enough data received
+",-17.613
+0:00:05.105046,25.768,25.87,25.464,"gh data received
+",-17.617
+0:00:06.020112,25.904,25.802,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.468
+0:00:06.936553,25.768,25.87,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.643
+0:00:07.852793,25.701,25.802,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.539
+0:00:08.768101,25.768,25.904,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.61
+0:00:09.684350,25.836,25.802,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.539
+0:00:10.600745,25.802,25.768,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.609
+0:00:11.515606,25.768,25.87,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.576
+0:00:12.432153,25.802,25.904,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.464
+0:00:13.348715,25.768,25.802,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.676
+0:00:13.348715,25.784025,25.806581,25.470516,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:00:14.263529,25.768,25.836,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.502
+0:00:15.180257,25.734,25.836,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.568
+0:00:16.095454,25.802,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.643
+0:00:17.011702,25.734,25.768,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.576
+0:00:17.928157,25.802,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.464
+0:00:18.843411,25.87,25.836,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.639
+0:00:19.759708,25.836,25.87,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.572
+0:00:20.676064,25.802,25.768,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.572
+0:00:21.591012,25.734,25.802,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.572
+0:00:22.507512,25.802,25.802,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.609
+0:00:23.422851,25.802,25.802,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.614
+0:00:24.338935,25.768,25.87,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.506
+0:00:25.255456,25.836,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.535
+0:00:26.170815,25.87,25.87,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.605
+0:00:27.087076,25.734,25.87,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.609
+0:00:27.087076,25.770494,25.820118,25.414127,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:00:28.003456,25.836,25.802,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.576
+0:00:28.815287,25.734,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.576
+0:00:29.629968,25.768,25.904,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.535
+0:00:30.444739,25.734,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.531
+0:00:31.259627,25.802,25.836,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.485
+0:00:32.074350,25.802,25.836,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.643
+0:00:32.886857,25.701,25.836,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.609
+0:00:33.803802,25.768,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.46
+0:00:34.720321,25.768,25.87,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:00:35.635214,25.836,25.768,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.493
+0:00:36.551870,25.734,25.836,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.597
+0:00:37.466664,25.768,25.768,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.564
+0:00:38.383167,25.768,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.601
+0:00:39.299669,25.768,25.836,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.643
+0:00:40.214653,25.701,25.836,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.539
+0:00:40.214653,25.73666,25.840418,25.425406,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:00:41.131152,25.768,25.802,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.535
+0:00:42.047685,25.768,25.802,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.568
+0:00:42.962585,25.701,25.836,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.605
+0:00:43.879132,25.701,25.768,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.535
+0:00:44.794445,25.768,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.531
+0:00:45.710904,25.802,25.836,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.639
+0:00:46.627053,25.768,25.87,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.572
+0:00:47.542027,25.87,25.802,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.572
+0:00:48.458538,25.667,25.802,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.572
+0:00:49.375037,25.701,25.904,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.535
+0:00:50.289965,25.768,25.836,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.568
+0:00:51.206434,25.768,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.605
+0:00:52.121437,25.734,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.572
+0:00:53.037935,25.734,25.836,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.498
+0:00:53.954431,25.802,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.564
+0:00:53.954431,25.743427,25.831396,25.409618,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:00:54.869355,25.701,25.904,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.676
+0:00:55.785869,25.802,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.464
+0:00:56.702372,25.734,25.768,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.601
+0:00:57.617337,25.734,25.87,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.531
+0:00:58.533881,25.701,25.802,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.601
+0:00:59.450382,25.701,25.904,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.493
+0:01:00.365357,25.667,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:01:01.281922,25.734,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.605
+0:01:02.197028,25.667,25.768,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.46
+0:01:03.113587,25.768,25.836,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.597
+0:01:04.029835,25.768,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.564
+0:01:04.944426,25.701,25.802,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.564
+0:01:05.861193,25.667,25.768,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.527
+0:01:06.777706,25.599,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:01:07.692894,25.701,25.734,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.494
+0:01:07.692894,25.71185,25.811094,25.420895,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:01:08.609336,25.667,25.87,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:01:09.524038,25.701,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.531
+0:01:10.440569,25.701,25.734,25.464,"Error trying to execute readMeasurement(): Not enough data received
+",-17.527
+0:01:11.357102,25.701,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:01:12.272022,25.701,25.836,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.531
+0:01:13.188567,25.734,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.527
+0:01:14.105082,25.734,25.802,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.672
+0:01:15.019978,25.734,25.87,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.535
+0:01:15.936484,25.701,25.802,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.494
+0:01:16.851854,25.701,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.56
+0:01:17.768085,25.667,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:01:18.684472,25.734,25.802,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.494
+0:01:19.599330,25.667,25.87,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.597
+0:01:20.516015,25.599,25.768,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.49
+0:01:21.432392,25.667,25.768,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.593
+0:01:21.432392,25.696058,25.795305,25.387064,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:01:22.347332,25.633,25.768,25.43,"Error trying to execute readMeasurement(): Not enough data received
+",-17.56
+0:01:23.264005,25.599,25.768,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.597
+0:01:24.179103,25.701,25.802,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.527
+0:01:25.095333,25.734,25.802,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:01:26.011780,25.633,25.802,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.494
+0:01:26.926735,25.633,25.768,25.396,"Error trying to execute readMeasurement(): Not enough data received
+",-17.56
+0:01:27.843211,25.701,25.802,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.448
+0:01:28.759726,25.633,25.768,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.697
+0:01:29.674681,25.701,25.768,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.452
+0:01:30.591207,25.599,25.802,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.552
+0:01:31.507710,25.633,25.802,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.626
+0:01:32.422431,25.599,25.836,25.295,"Error trying to execute readMeasurement(): Not enough data received
+",-17.56
+0:01:33.339136,25.565,25.768,25.295,"Error trying to execute readMeasurement(): Not enough data received
+",-17.635
+0:01:34.254441,25.599,25.768,25.295,"Error trying to execute readMeasurement(): Not enough data received
+",-17.419
+0:01:35.170548,25.633,25.802,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.589
+0:01:35.170548,25.657717,25.78177,25.348722,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:01:36.087129,25.565,25.734,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.519
+0:01:37.002033,25.531,25.802,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.515
+0:01:37.918544,25.531,25.836,25.362,"Error trying to execute readMeasurement(): Not enough data received
+",-17.585
+0:01:38.835057,25.565,25.768,25.295,"Error trying to execute readMeasurement(): Not enough data received
+",-17.44
+0:01:39.750365,25.633,25.836,25.328,"Error trying to execute readMeasurement(): Not enough data received
+",-17.652
+0:01:40.666512,25.565,25.836,25.295,"Error trying to execute readMeasurement(): Not enough data received
+",-17.552
+0:01:41.581437,25.531,25.802,25.227,"Error trying to execute readMeasurement(): Not enough data received
+",-17.44
+0:01:42.497972,25.599,25.734,25.295,"Error trying to execute readMeasurement(): Not enough data received
+",-17.577
+0:01:43.414453,25.565,25.768,25.261,"Error trying to execute readMeasurement(): Not enough data received
+",-17.581
+0:01:44.329429,25.531,25.802,25.261,"Error trying to execute readMeasurement(): Not enough data received
+",-17.585
+0:01:45.245936,25.531,25.802,25.159,"Error trying to execute readMeasurement(): Not enough data received
+",-17.44
+0:01:46.162498,25.498,25.836,25.193,"Error trying to execute readMeasurement(): Not enough data received
+",-17.652
+0:01:47.077712,25.531,25.768,25.193,"Error trying to execute readMeasurement(): Not enough data received
+",-17.515
+0:01:47.994009,25.498,25.734,25.159,"Error trying to execute readMeasurement(): Not enough data received
+",-17.511
+0:01:48.909137,25.464,25.734,25.159,"Error trying to execute readMeasurement(): Not enough data received
+",-17.432
+0:01:48.909137,25.551708,25.775003,25.256258,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:01:49.825463,25.531,25.768,25.159,"Error trying to execute readMeasurement(): Not enough data received
+",-17.606
+0:01:50.741946,25.464,25.734,25.159,"Error trying to execute readMeasurement(): Not enough data received
+",-17.465
+0:01:51.657026,25.498,25.836,25.125,"Error trying to execute readMeasurement(): Not enough data received
+",-17.569
+0:01:52.573460,25.43,25.836,25.159,"Error trying to execute readMeasurement(): Not enough data received
+",-17.461
+0:01:53.489765,25.498,25.734,25.125,"Error trying to execute readMeasurement(): Not enough data received
+",-17.602
+0:01:54.404711,25.396,25.768,25.159,"Error trying to execute readMeasurement(): Not enough data received
+",-17.498
+0:01:55.321479,25.43,25.701,25.092,"Error trying to execute readMeasurement(): Not enough data received
+",-17.532
+0:01:56.237754,25.362,25.734,25.092,"Error trying to execute readMeasurement(): Not enough data received
+",-17.494
+0:01:57.152638,25.328,25.667,25.058,"Error trying to execute readMeasurement(): Not enough data received
+",-17.565
+0:01:58.069302,25.43,25.734,25.125,"Error trying to execute readMeasurement(): Not enough data received
+",-17.494
+0:01:58.985814,25.362,25.734,25.058,"Error trying to execute readMeasurement(): Not enough data received
+",-17.416
+0:01:59.900763,25.328,25.701,25.058,"Error trying to execute readMeasurement(): Not enough data received
+",-17.553
+0:02:00.817167,25.396,25.701,25.024,"Error trying to execute readMeasurement(): Not enough data received
+",-17.594
+0:02:01.732385,25.362,25.701,25.024,"Error trying to execute readMeasurement(): Not enough data received
+",-17.528
+0:02:02.648620,25.362,25.701,25.024,"Error trying to execute readMeasurement(): Not enough data received
+",-17.416
+0:02:02.648620,25.402853,25.736662,25.134478,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:02:03.565071,25.362,25.734,25.024,"Error trying to execute readMeasurement(): Not enough data received
+",-17.59
+0:02:04.480246,25.362,25.734,24.99,"Error trying to execute readMeasurement(): Not enough data received
+",-17.523
+0:02:05.396636,25.295,25.667,25.024,"Error trying to execute readMeasurement(): Not enough data received
+",-17.449
+0:02:06.311734,25.261,25.734,24.956,"Error trying to execute readMeasurement(): Not enough data received
+",-17.515
+0:02:07.228138,25.261,25.667,24.922,"Error trying to execute readMeasurement(): Not enough data received
+",-17.515
+0:02:08.144530,25.227,25.701,24.922,"Error trying to execute readMeasurement(): Not enough data received
+",-17.478
+0:02:09.059735,25.227,25.734,24.956,"Error trying to execute readMeasurement(): Not enough data received
+",-17.549
+0:02:09.976117,25.227,25.633,24.956,"Error trying to execute readMeasurement(): Not enough data received
+",-17.478
+0:02:10.892495,25.227,25.633,24.956,"Error trying to execute readMeasurement(): Not enough data received
+",-17.474
+0:02:11.807608,25.193,25.667,24.855,"Error trying to execute readMeasurement(): Not enough data received
+",-17.433
+0:02:12.724046,25.193,25.701,24.889,"Error trying to execute readMeasurement(): Not enough data received
+",-17.499
+0:02:13.639157,25.227,25.599,24.855,"Error trying to execute readMeasurement(): Not enough data received
+",-17.462
+0:02:14.555534,25.092,25.633,24.855,"Error trying to execute readMeasurement(): Not enough data received
+",-17.495
+0:02:15.471941,25.193,25.565,24.855,"Error trying to execute readMeasurement(): Not enough data received
+",-17.57
+0:02:16.387084,25.159,25.599,24.821,"Error trying to execute readMeasurement(): Not enough data received
+",-17.354
+0:02:16.387084,25.231451,25.687038,24.93603,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:02:17.303427,25.092,25.599,24.787,"Error trying to execute readMeasurement(): Not enough data received
+",-17.561
+0:02:18.219837,25.125,25.599,24.787,"Error trying to execute readMeasurement(): Not enough data received
+",-17.458
+0:02:19.135108,25.125,25.599,24.787,"Error trying to execute readMeasurement(): Not enough data received
+",-17.454
+0:02:20.051386,25.058,25.633,24.855,"Error trying to execute readMeasurement(): Not enough data received
+",-17.487
+0:02:20.966504,24.99,25.633,24.753,"Error trying to execute readMeasurement(): Not enough data received
+",-17.45
+0:02:21.882976,25.024,25.565,24.753,"Error trying to execute readMeasurement(): Not enough data received
+",-17.483
+0:02:22.799260,24.99,25.599,24.753,"Error trying to execute readMeasurement(): Not enough data received
+",-17.52
+0:02:23.714488,25.024,25.633,24.72,"Error trying to execute readMeasurement(): Not enough data received
+",-17.338
+0:02:24.630831,25.024,25.633,24.686,"Error trying to execute readMeasurement(): Not enough data received
+",-17.545
+0:02:25.547213,24.956,25.565,24.652,"Error trying to execute readMeasurement(): Not enough data received
+",-17.442
+0:02:26.462513,24.855,25.464,24.72,"Error trying to execute readMeasurement(): Not enough data received
+",-17.326
+0:02:27.378782,24.922,25.498,24.686,"Error trying to execute readMeasurement(): Not enough data received
+",-17.533
+0:02:28.295173,24.787,25.565,24.652,"Error trying to execute readMeasurement(): Not enough data received
+",-17.504
+0:02:29.210368,24.821,25.599,24.652,"Error trying to execute readMeasurement(): Not enough data received
+",-17.433
+0:02:30.126735,24.821,25.531,24.55,"Error trying to execute readMeasurement(): Not enough data received
+",-17.392
+0:02:30.126735,24.976618,25.574263,24.728573,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:02:31.041534,24.855,25.498,24.584,"Error trying to execute readMeasurement(): Not enough data received
+",-17.347
+0:02:31.958048,24.787,25.531,24.55,"Error trying to execute readMeasurement(): Not enough data received
+",-17.521
+0:02:32.874619,24.787,25.464,24.618,"Error trying to execute readMeasurement(): Not enough data received
+",-17.417
+0:02:33.789858,24.787,25.531,24.517,"Error trying to execute readMeasurement(): Not enough data received
+",-17.376
+0:02:34.706224,24.686,25.43,24.584,"Error trying to execute readMeasurement(): Not enough data received
+",-17.517
+0:02:35.622576,24.686,25.464,24.483,"Error trying to execute readMeasurement(): Not enough data received
+",-17.413
+0:02:36.537448,24.686,25.464,24.483,"Error trying to execute readMeasurement(): Not enough data received
+",-17.521
+0:02:37.454092,24.652,25.43,24.517,"Error trying to execute readMeasurement(): Not enough data received
+",-17.268
+0:02:38.369241,24.652,25.396,24.449,"Error trying to execute readMeasurement(): Not enough data received
+",-17.471
+0:02:39.285450,24.584,25.396,24.449,"Error trying to execute readMeasurement(): Not enough data received
+",-17.438
+0:02:40.202043,24.55,25.396,24.381,"Error trying to execute readMeasurement(): Not enough data received
+",-17.364
+0:02:41.117146,24.55,25.396,24.449,"Error trying to execute readMeasurement(): Not enough data received
+",-17.43
+0:02:42.033584,24.55,25.362,24.348,"Error trying to execute readMeasurement(): Not enough data received
+",-17.356
+0:02:42.950003,24.517,25.43,24.381,"Error trying to execute readMeasurement(): Not enough data received
+",-17.422
+0:02:43.865111,24.483,25.362,24.348,"Error trying to execute readMeasurement(): Not enough data received
+",-17.422
+0:02:43.865111,24.656422,25.45247,24.460255,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:02:44.781516,24.483,25.362,24.314,"Error trying to execute readMeasurement(): Not enough data received
+",-17.347
+0:02:45.696581,24.381,25.396,24.314,"Error trying to execute readMeasurement(): Not enough data received
+",-17.489
+0:02:46.612980,24.381,25.362,24.28,"Error trying to execute readMeasurement(): Not enough data received
+",-17.347
+0:02:47.529309,24.415,25.295,24.246,"Error trying to execute readMeasurement(): Not enough data received
+",-17.377
+0:02:48.444539,24.381,25.362,24.28,"Error trying to execute readMeasurement(): Not enough data received
+",-17.372
+0:02:49.360893,24.28,25.362,24.212,"Error trying to execute readMeasurement(): Not enough data received
+",-17.369
+0:02:50.277215,24.348,25.295,24.178,"Error trying to execute readMeasurement(): Not enough data received
+",-17.327
+0:02:51.192451,24.28,25.261,24.178,"Error trying to execute readMeasurement(): Not enough data received
+",-17.394
+0:02:52.108834,24.246,25.295,24.145,"Error trying to execute readMeasurement(): Not enough data received
+",-17.394
+0:02:53.025228,24.212,25.328,24.145,"Error trying to execute readMeasurement(): Not enough data received
+",-17.282
+0:02:53.940368,24.212,25.328,24.111,"Error trying to execute readMeasurement(): Not enough data received
+",-17.381
+0:02:54.856822,24.178,25.261,24.043,"Error trying to execute readMeasurement(): Not enough data received
+",-17.381
+0:02:55.771927,24.145,25.227,24.077,"Error trying to execute readMeasurement(): Not enough data received
+",-17.419
+0:02:56.688288,24.212,25.227,24.111,"Error trying to execute readMeasurement(): Not enough data received
+",-17.348
+0:02:57.604676,24.111,25.261,24.043,"Error trying to execute readMeasurement(): Not enough data received
+",-17.307
+0:02:57.604676,24.295664,25.292341,24.182932,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:02:58.519777,24.009,25.227,24.009,"Error trying to execute readMeasurement(): Not enough data received
+",-17.336
+0:02:59.436230,24.043,25.193,23.976,"Error trying to execute readMeasurement(): Not enough data received
+",-17.407
+0:03:00.352602,24.043,25.159,24.009,"Error trying to execute readMeasurement(): Not enough data received
+",-17.261
+0:03:01.267709,24.043,25.159,23.942,"Error trying to execute readMeasurement(): Not enough data received
+",-17.361
+0:03:02.184118,23.976,25.125,23.942,"Error trying to execute readMeasurement(): Not enough data received
+",-17.324
+0:03:03.099277,23.874,25.092,23.874,"Error trying to execute readMeasurement(): Not enough data received
+",-17.32
+0:03:04.015486,23.908,25.159,23.908,"Error trying to execute readMeasurement(): Not enough data received
+",-17.39
+0:03:04.932030,23.84,25.125,23.84,"Error trying to execute readMeasurement(): Not enough data received
+",-17.208
+0:03:05.847214,23.874,25.125,23.84,"Error trying to execute readMeasurement(): Not enough data received
+",-17.415
+0:03:06.763585,23.806,25.092,23.806,"Error trying to execute readMeasurement(): Not enough data received
+",-17.274
+0:03:07.679981,23.773,25.092,23.739,"Error trying to execute readMeasurement(): Not enough data received
+",-17.304
+0:03:08.595085,23.705,25.058,23.773,"Error trying to execute readMeasurement(): Not enough data received
+",-17.225
+0:03:09.511505,23.705,24.99,23.739,"Error trying to execute readMeasurement(): Not enough data received
+",-17.325
+0:03:10.426722,23.671,25.024,23.705,"Error trying to execute readMeasurement(): Not enough data received
+",-17.325
+0:03:11.343024,23.671,24.99,23.773,"Error trying to execute readMeasurement(): Not enough data received
+",-17.362
+0:03:11.343024,23.889864,25.091627,23.847033,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:03:12.259408,23.637,24.922,23.637,"Error trying to execute readMeasurement(): Not enough data received
+",-17.217
+0:03:13.174709,23.536,24.922,23.637,"Error trying to execute readMeasurement(): Not enough data received
+",-17.316
+0:03:14.090925,23.502,24.922,23.604,"Error trying to execute readMeasurement(): Not enough data received
+",-17.242
+0:03:15.007365,23.536,25.024,23.604,"Error trying to execute readMeasurement(): Not enough data received
+",-17.271
+0:03:15.922220,23.502,24.956,23.536,"Error trying to execute readMeasurement(): Not enough data received
+",-17.23
+0:03:16.838733,23.502,24.922,23.57,"Error trying to execute readMeasurement(): Not enough data received
+",-17.259
+0:03:17.754058,23.401,24.889,23.502,"Error trying to execute readMeasurement(): Not enough data received
+",-17.292
+0:03:18.670389,23.367,24.922,23.502,"Error trying to execute readMeasurement(): Not enough data received
+",-17.218
+0:03:19.586764,23.265,24.855,23.468,"Error trying to execute readMeasurement(): Not enough data received
+",-17.284
+0:03:20.502008,23.265,24.855,23.468,"Error trying to execute readMeasurement(): Not enough data received
+",-17.247
+0:03:21.418344,23.333,24.855,23.435,"Error trying to execute readMeasurement(): Not enough data received
+",-17.206
+0:03:22.334726,23.333,24.821,23.401,"Error trying to execute readMeasurement(): Not enough data received
+",-17.272
+0:03:23.249560,23.265,24.787,23.367,"Error trying to execute readMeasurement(): Not enough data received
+",-17.235
+0:03:24.166255,23.299,24.753,23.333,"Error trying to execute readMeasurement(): Not enough data received
+",-17.193
+0:03:25.082670,23.164,24.753,23.367,"Error trying to execute readMeasurement(): Not enough data received
+",-17.222
+0:03:25.082670,23.389439,24.866123,23.508902,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:03:25.997791,23.096,24.686,23.232,"Error trying to execute readMeasurement(): Not enough data received
+",-17.256
+0:03:26.914030,23.13,24.787,23.265,"Error trying to execute readMeasurement(): Not enough data received
+",-17.218
+0:03:27.829023,23.029,24.72,23.232,"Error trying to execute readMeasurement(): Not enough data received
+",-17.214
+0:03:28.745695,22.995,24.72,23.265,"Error trying to execute readMeasurement(): Not enough data received
+",-17.173
+0:03:29.662059,22.995,24.618,23.198,"Error trying to execute readMeasurement(): Not enough data received
+",-17.277
+0:03:30.577211,23.029,24.652,23.164,"Error trying to execute readMeasurement(): Not enough data received
+",-17.169
+0:03:31.493579,22.927,24.652,23.164,"Error trying to execute readMeasurement(): Not enough data received
+",-17.161
+0:03:32.410011,22.894,24.652,23.13,"Error trying to execute readMeasurement(): Not enough data received
+",-17.153
+0:03:33.325097,22.826,24.517,23.029,"Error trying to execute readMeasurement(): Not enough data received
+",-17.294
+0:03:34.241529,22.792,24.584,23.063,"Error trying to execute readMeasurement(): Not enough data received
+",-17.153
+0:03:35.156298,22.792,24.55,22.995,"Error trying to execute readMeasurement(): Not enough data received
+",-17.182
+0:03:36.073094,22.725,24.517,22.995,"Error trying to execute readMeasurement(): Not enough data received
+",-17.215
+0:03:36.989491,22.657,24.483,23.029,"Error trying to execute readMeasurement(): Not enough data received
+",-17.103
+0:03:37.904563,22.589,24.517,22.961,"Error trying to execute readMeasurement(): Not enough data received
+",-17.24
+0:03:38.820959,22.556,24.55,22.894,"Error trying to execute readMeasurement(): Not enough data received
+",-17.095
+0:03:38.820959,22.889091,24.622593,23.112211,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:03:39.737380,22.522,24.381,22.826,"Error trying to execute readMeasurement(): Not enough data received
+",-17.158
+0:03:40.652435,22.556,24.415,22.86,"Error trying to execute readMeasurement(): Not enough data received
+",-17.116
+0:03:41.568861,22.522,24.449,22.826,"Error trying to execute readMeasurement(): Not enough data received
+",-17.145
+0:03:42.484016,22.454,24.415,22.826,"Error trying to execute readMeasurement(): Not enough data received
+",-17.141
+0:03:43.400403,22.42,24.381,22.758,"Error trying to execute readMeasurement(): Not enough data received
+",-17.174
+0:03:44.316712,22.387,24.381,22.758,"Error trying to execute readMeasurement(): Not enough data received
+",-17.1
+0:03:45.231892,22.251,24.314,22.725,"Error trying to execute readMeasurement(): Not enough data received
+",-17.055
+0:03:46.148304,22.285,24.28,22.758,"Error trying to execute readMeasurement(): Not enough data received
+",-17.191
+0:03:47.064659,22.218,24.314,22.657,"Error trying to execute readMeasurement(): Not enough data received
+",-17.084
+0:03:47.979880,22.184,24.246,22.725,"Error trying to execute readMeasurement(): Not enough data received
+",-17.113
+0:03:48.896254,22.15,24.212,22.589,"Error trying to execute readMeasurement(): Not enough data received
+",-17.183
+0:03:49.811372,22.049,24.212,22.556,"Error trying to execute readMeasurement(): Not enough data received
+",-17.038
+0:03:50.727729,22.082,24.212,22.556,"Error trying to execute readMeasurement(): Not enough data received
+",-16.989
+0:03:51.644137,22.049,24.145,22.589,"Error trying to execute readMeasurement(): Not enough data received
+",-17.122
+0:03:52.559400,22.015,24.111,22.454,"Error trying to execute readMeasurement(): Not enough data received
+",-17.122
+0:03:52.559400,22.294182,24.30694,22.733591,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:03:53.475699,22.015,24.145,22.454,"Error trying to execute readMeasurement(): Not enough data received
+",-17.085
+0:03:54.392127,21.947,24.111,22.454,"Error trying to execute readMeasurement(): Not enough data received
+",-17.043
+0:03:55.307236,21.812,24.043,22.42,"Error trying to execute readMeasurement(): Not enough data received
+",-17.072
+0:03:56.223590,21.812,24.077,22.42,"Error trying to execute readMeasurement(): Not enough data received
+",-16.994
+0:03:57.140027,21.778,24.077,22.319,"Error trying to execute readMeasurement(): Not enough data received
+",-17.205
+0:03:58.055155,21.744,24.043,22.319,"Error trying to execute readMeasurement(): Not enough data received
+",-16.919
+0:03:58.971543,21.643,23.976,22.387,"Error trying to execute readMeasurement(): Not enough data received
+",-17.011
+0:03:59.886686,21.643,24.043,22.251,"Error trying to execute readMeasurement(): Not enough data received
+",-17.114
+0:04:00.803050,21.609,23.976,22.285,"Error trying to execute readMeasurement(): Not enough data received
+",-17.044
+0:04:01.719440,21.508,23.874,22.184,"Error trying to execute readMeasurement(): Not enough data received
+",-16.965
+0:04:02.634423,21.44,23.874,22.251,"Error trying to execute readMeasurement(): Not enough data received
+",-16.991
+0:04:03.551042,21.474,23.908,22.082,"Error trying to execute readMeasurement(): Not enough data received
+",-17.02
+0:04:04.467334,21.407,23.908,22.15,"Error trying to execute readMeasurement(): Not enough data received
+",-17.053
+0:04:05.382317,21.373,23.84,22.082,"Error trying to execute readMeasurement(): Not enough data received
+",-17.053
+0:04:06.298860,21.305,23.773,22.049,"Error trying to execute readMeasurement(): Not enough data received
+",-16.941
+0:04:06.298860,21.652067,23.977783,22.273897,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:04:07.214086,21.271,23.739,21.981,"Error trying to execute readMeasurement(): Not enough data received
+",-16.929
+0:04:08.130359,21.271,23.773,21.947,"Error trying to execute readMeasurement(): Not enough data received
+",-17.029
+0:04:09.046825,21.136,23.739,21.88,"Error trying to execute readMeasurement(): Not enough data received
+",-17.029
+0:04:09.961653,21.069,23.739,21.846,"Error trying to execute readMeasurement(): Not enough data received
+",-16.879
+0:04:10.878383,21.069,23.671,21.846,"Error trying to execute readMeasurement(): Not enough data received
+",-16.938
+0:04:11.794735,21.035,23.671,21.812,"Error trying to execute readMeasurement(): Not enough data received
+",-17.079
+0:04:12.709962,20.933,23.57,21.744,"Error trying to execute readMeasurement(): Not enough data received
+",-16.9
+0:04:13.626164,20.933,23.604,21.778,"Error trying to execute readMeasurement(): Not enough data received
+",-16.888
+0:04:14.541478,20.798,23.57,21.744,"Error trying to execute readMeasurement(): Not enough data received
+",-16.988
+0:04:15.457839,20.798,23.57,21.677,"Error trying to execute readMeasurement(): Not enough data received
+",-16.988
+0:04:16.374095,20.765,23.604,21.643,"Error trying to execute readMeasurement(): Not enough data received
+",-16.913
+0:04:17.289405,20.697,23.502,21.677,"Error trying to execute readMeasurement(): Not enough data received
+",-16.905
+0:04:18.205814,20.697,23.435,21.575,"Error trying to execute readMeasurement(): Not enough data received
+",-16.897
+0:04:19.122166,20.697,23.468,21.508,"Error trying to execute readMeasurement(): Not enough data received
+",-17.001
+0:04:20.037288,20.596,23.401,21.542,"Error trying to execute readMeasurement(): Not enough data received
+",-16.781
+0:04:20.037288,20.949257,23.592304,21.76696,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:04:20.953669,20.528,23.401,21.508,"Error trying to execute readMeasurement(): Not enough data received
+",-16.947
+0:04:21.868755,20.528,23.401,21.44,"Error trying to execute readMeasurement(): Not enough data received
+",-16.947
+0:04:22.785136,20.528,23.333,21.407,"Error trying to execute readMeasurement(): Not enough data received
+",-16.798
+0:04:23.701474,20.393,23.367,21.339,"Error trying to execute readMeasurement(): Not enough data received
+",-16.857
+0:04:24.616689,20.325,23.367,21.339,"Error trying to execute readMeasurement(): Not enough data received
+",-16.886
+0:04:25.533118,20.258,23.265,21.271,"Error trying to execute readMeasurement(): Not enough data received
+",-16.845
+0:04:26.449522,20.258,23.265,21.204,"Error trying to execute readMeasurement(): Not enough data received
+",-16.874
+0:04:27.364593,20.157,23.164,21.238,"Error trying to execute readMeasurement(): Not enough data received
+",-16.907
+0:04:28.280967,20.089,23.096,21.17,"Error trying to execute readMeasurement(): Not enough data received
+",-16.721
+0:04:29.197437,20.021,23.096,21.102,"Error trying to execute readMeasurement(): Not enough data received
+",-16.924
+0:04:30.112537,19.988,23.198,21.069,"Error trying to execute readMeasurement(): Not enough data received
+",-16.891
+0:04:31.028924,19.988,23.029,21.102,"Error trying to execute readMeasurement(): Not enough data received
+",-16.779
+0:04:31.943968,19.954,23.096,21.001,"Error trying to execute readMeasurement(): Not enough data received
+",-16.841
+0:04:32.860428,19.886,22.927,20.9,"Error trying to execute readMeasurement(): Not enough data received
+",-16.8
+0:04:33.776925,19.819,22.894,20.9,"Error trying to execute readMeasurement(): Not enough data received
+",-16.792
+0:04:33.776925,20.188051,23.206871,21.208288,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:04:34.691985,19.751,22.927,20.933,"Error trying to execute readMeasurement(): Not enough data received
+",-16.784
+0:04:35.608376,19.684,22.961,20.866,"Error trying to execute readMeasurement(): Not enough data received
+",-16.85
+0:04:36.524774,19.616,22.961,20.832,"Error trying to execute readMeasurement(): Not enough data received
+",-16.664
+0:04:37.439871,19.616,22.86,20.798,"Error trying to execute readMeasurement(): Not enough data received
+",-16.867
+0:04:38.356337,19.616,22.86,20.629,"Error trying to execute readMeasurement(): Not enough data received
+",-16.722
+0:04:39.271501,19.481,22.826,20.697,"Error trying to execute readMeasurement(): Not enough data received
+",-16.785
+0:04:40.187842,19.447,22.792,20.663,"Error trying to execute readMeasurement(): Not enough data received
+",-16.743
+0:04:41.104170,19.312,22.725,20.562,"Error trying to execute readMeasurement(): Not enough data received
+",-16.847
+0:04:42.019354,19.346,22.725,20.528,"Error trying to execute readMeasurement(): Not enough data received
+",-16.702
+0:04:42.935735,19.245,22.691,20.494,"Error trying to execute readMeasurement(): Not enough data received
+",-16.764
+0:04:43.852207,19.245,22.657,20.427,"Error trying to execute readMeasurement(): Not enough data received
+",-16.723
+0:04:44.767274,19.076,22.657,20.393,"Error trying to execute readMeasurement(): Not enough data received
+",-16.678
+0:04:45.683685,19.042,22.691,20.325,"Error trying to execute readMeasurement(): Not enough data received
+",-16.852
+0:04:46.598807,19.042,22.556,20.325,"Error trying to execute readMeasurement(): Not enough data received
+",-16.674
+0:04:47.514955,19.008,22.488,20.292,"Error trying to execute readMeasurement(): Not enough data received
+",-16.661
+0:04:47.514955,19.395496,22.75613,20.582144,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:04:48.431565,18.907,22.488,20.224,"Error trying to execute readMeasurement(): Not enough data received
+",-16.687
+0:04:49.346774,18.839,22.522,20.224,"Error trying to execute readMeasurement(): Not enough data received
+",-16.678
+0:04:50.263131,18.738,22.454,20.157,"Error trying to execute readMeasurement(): Not enough data received
+",-16.67
+0:04:51.179656,18.772,22.387,20.157,"Error trying to execute readMeasurement(): Not enough data received
+",-16.662
+0:04:52.094681,18.704,22.353,20.089,"Error trying to execute readMeasurement(): Not enough data received
+",-16.691
+0:04:53.010883,18.671,22.319,20.021,"Error trying to execute readMeasurement(): Not enough data received
+",-16.725
+0:04:53.926200,18.603,22.319,20.055,"Error trying to execute readMeasurement(): Not enough data received
+",-16.687
+0:04:54.842431,18.536,22.319,19.92,"Error trying to execute readMeasurement(): Not enough data received
+",-16.609
+0:04:55.758990,18.367,22.251,19.92,"Error trying to execute readMeasurement(): Not enough data received
+",-16.597
+0:04:56.674151,18.401,22.285,19.853,"Error trying to execute readMeasurement(): Not enough data received
+",-16.622
+0:04:57.590491,18.299,22.15,19.853,"Error trying to execute readMeasurement(): Not enough data received
+",-16.725
+0:04:58.506883,18.266,22.15,19.819,"Error trying to execute readMeasurement(): Not enough data received
+",-16.618
+0:04:59.422019,18.232,22.082,19.785,"Error trying to execute readMeasurement(): Not enough data received
+",-16.535
+0:05:00.338373,18.198,22.049,19.751,"Error trying to execute readMeasurement(): Not enough data received
+",-16.593
+0:05:01.254756,18.063,22.015,19.684,"Error trying to execute readMeasurement(): Not enough data received
+",-16.585
+0:05:01.254756,18.544611,22.273901,19.974127,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:05:02.169971,18.063,22.049,19.65,"Error trying to execute readMeasurement(): Not enough data received
+",-16.614
+0:05:03.086369,17.962,21.947,19.65,"Error trying to execute readMeasurement(): Not enough data received
+",-16.648
+0:05:04.001474,17.894,21.947,19.549,"Error trying to execute readMeasurement(): Not enough data received
+",-16.536
+0:05:04.917893,17.793,21.846,19.515,"Error trying to execute readMeasurement(): Not enough data received
+",-16.561
+0:05:05.834216,17.793,21.846,19.447,"Error trying to execute readMeasurement(): Not enough data received
+",-16.516
+0:05:06.749400,17.725,21.913,19.515,"Error trying to execute readMeasurement(): Not enough data received
+",-16.466
+0:05:07.665831,17.624,21.812,19.447,"Error trying to execute readMeasurement(): Not enough data received
+",-16.599
+0:05:08.582174,17.624,21.711,19.38,"Error trying to execute readMeasurement(): Not enough data received
+",-16.562
+0:05:09.497327,17.59,21.744,19.312,"Error trying to execute readMeasurement(): Not enough data received
+",-16.52
+0:05:10.413743,17.557,21.677,19.278,"Error trying to execute readMeasurement(): Not enough data received
+",-16.475
+0:05:11.328825,17.388,21.575,19.278,"Error trying to execute readMeasurement(): Not enough data received
+",-16.426
+0:05:12.245095,17.354,21.609,19.245,"Error trying to execute readMeasurement(): Not enough data received
+",-16.596
+0:05:13.161662,17.32,21.542,19.211,"Error trying to execute readMeasurement(): Not enough data received
+",-16.563
+0:05:14.076733,17.219,21.575,19.211,"Error trying to execute readMeasurement(): Not enough data received
+",-16.451
+0:05:14.993132,17.152,21.44,19.11,"Error trying to execute readMeasurement(): Not enough data received
+",-16.513
+0:05:14.993132,17.615183,21.769213,19.386488,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:05:15.909580,17.084,21.474,19.008,"Error trying to execute readMeasurement(): Not enough data received
+",-16.435
+0:05:16.824669,17.05,21.407,19.042,"Error trying to execute readMeasurement(): Not enough data received
+",-16.46
+0:05:17.741086,16.949,21.305,19.042,"Error trying to execute readMeasurement(): Not enough data received
+",-16.414
+0:05:18.656200,16.882,21.305,18.975,"Error trying to execute readMeasurement(): Not enough data received
+",-16.551
+0:05:19.572564,16.882,21.305,18.941,"Error trying to execute readMeasurement(): Not enough data received
+",-16.369
+0:05:20.488967,16.78,21.271,18.941,"Error trying to execute readMeasurement(): Not enough data received
+",-16.427
+0:05:21.404183,16.679,21.339,18.806,"Error trying to execute readMeasurement(): Not enough data received
+",-16.382
+0:05:22.320522,16.646,21.17,18.772,"Error trying to execute readMeasurement(): Not enough data received
+",-16.444
+0:05:23.236919,16.511,21.136,18.772,"Error trying to execute readMeasurement(): Not enough data received
+",-16.44
+0:05:24.152017,16.511,21.136,18.738,"Error trying to execute readMeasurement(): Not enough data received
+",-16.362
+0:05:25.068279,16.376,21.069,18.671,"Error trying to execute readMeasurement(): Not enough data received
+",-16.387
+0:05:25.984875,16.342,20.967,18.637,"Error trying to execute readMeasurement(): Not enough data received
+",-16.305
+0:05:26.900002,16.308,21.001,18.536,"Error trying to execute readMeasurement(): Not enough data received
+",-16.511
+0:05:27.816375,16.241,20.9,18.502,"Error trying to execute readMeasurement(): Not enough data received
+",-16.222
+0:05:28.731593,16.072,21.001,18.468,"Error trying to execute readMeasurement(): Not enough data received
+",-16.346
+0:05:28.731593,16.638775,21.206036,18.80345,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:05:29.647786,15.971,20.832,18.401,"Error trying to execute readMeasurement(): Not enough data received
+",-16.375
+0:05:30.564303,16.004,20.866,18.367,"Error trying to execute readMeasurement(): Not enough data received
+",-16.446
+0:05:31.479431,15.87,20.798,18.299,"Error trying to execute readMeasurement(): Not enough data received
+",-16.19
+0:05:32.395797,15.87,20.731,18.299,"Error trying to execute readMeasurement(): Not enough data received
+",-16.388
+0:05:33.312182,15.735,20.731,18.266,"Error trying to execute readMeasurement(): Not enough data received
+",-16.314
+0:05:34.227316,15.735,20.731,18.198,"Error trying to execute readMeasurement(): Not enough data received
+",-16.306
+0:05:35.143785,15.633,20.562,18.13,"Error trying to execute readMeasurement(): Not enough data received
+",-16.261
+0:05:36.058894,15.566,20.629,18.097,"Error trying to execute readMeasurement(): Not enough data received
+",-16.286
+0:05:36.975281,15.532,20.596,18.029,"Error trying to execute readMeasurement(): Not enough data received
+",-16.203
+0:05:37.891669,15.431,20.528,17.894,"Error trying to execute readMeasurement(): Not enough data received
+",-16.261
+0:05:38.806859,15.397,20.461,17.962,"Error trying to execute readMeasurement(): Not enough data received
+",-16.253
+0:05:39.723181,15.33,20.494,17.894,"Error trying to execute readMeasurement(): Not enough data received
+",-16.357
+0:05:40.639675,15.229,20.393,17.793,"Error trying to execute readMeasurement(): Not enough data received
+",-16.138
+0:05:41.554768,15.161,20.325,17.759,"Error trying to execute readMeasurement(): Not enough data received
+",-16.341
+0:05:42.471116,15.06,20.325,17.725,"Error trying to execute readMeasurement(): Not enough data received
+",-16.122
+0:05:42.471116,15.592933,20.575386,18.067484,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:05:43.386345,15.06,20.258,17.692,"Error trying to execute readMeasurement(): Not enough data received
+",-16.25
+0:05:44.302665,14.891,20.258,17.59,"Error trying to execute readMeasurement(): Not enough data received
+",-16.172
+0:05:45.219013,14.824,20.157,17.557,"Error trying to execute readMeasurement(): Not enough data received
+",-16.159
+0:05:46.134213,14.824,20.123,17.557,"Error trying to execute readMeasurement(): Not enough data received
+",-16.296
+0:05:47.050515,14.689,20.021,17.422,"Error trying to execute readMeasurement(): Not enough data received
+",-16.151
+0:05:47.967004,14.655,19.988,17.388,"Error trying to execute readMeasurement(): Not enough data received
+",-16.176
+0:05:48.882110,14.554,20.089,17.32,"Error trying to execute readMeasurement(): Not enough data received
+",-16.168
+0:05:49.798339,14.52,20.021,17.253,"Error trying to execute readMeasurement(): Not enough data received
+",-16.086
+0:05:50.713674,14.419,19.886,17.185,"Error trying to execute readMeasurement(): Not enough data received
+",-16.218
+0:05:51.630076,14.352,19.819,17.084,"Error trying to execute readMeasurement(): Not enough data received
+",-15.996
+0:05:52.546427,14.318,19.785,17.05,"Error trying to execute readMeasurement(): Not enough data received
+",-16.268
+0:05:53.461575,14.217,19.819,17.017,"Error trying to execute readMeasurement(): Not enough data received
+",-16.053
+0:05:54.377952,14.15,19.684,17.017,"Error trying to execute readMeasurement(): Not enough data received
+",-16.075
+0:05:55.294313,14.116,19.684,16.949,"Error trying to execute readMeasurement(): Not enough data received
+",-16.1
+0:05:56.209449,13.947,19.684,16.915,"Error trying to execute readMeasurement(): Not enough data received
+",-16.054
+0:05:56.209449,14.509202,19.965126,17.273176,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:05:57.125839,13.846,19.549,16.78,"Error trying to execute readMeasurement(): Not enough data received
+",-16.117
+0:05:58.040980,13.711,19.549,16.747,"Error trying to execute readMeasurement(): Not enough data received
+",-16.075
+0:05:58.957393,13.745,19.481,16.679,"Error trying to execute readMeasurement(): Not enough data received
+",-16.03
+0:05:59.873688,13.644,19.481,16.578,"Error trying to execute readMeasurement(): Not enough data received
+",-16.018
+0:06:00.788895,13.543,19.413,16.511,"Error trying to execute readMeasurement(): Not enough data received
+",-16.117
+0:06:01.705243,13.509,19.346,16.409,"Error trying to execute readMeasurement(): Not enough data received
+",-15.969
+0:06:02.621645,13.408,19.278,16.342,"Error trying to execute readMeasurement(): Not enough data received
+",-16.064
+0:06:03.536641,13.273,19.245,16.342,"Error trying to execute readMeasurement(): Not enough data received
+",-15.948
+0:06:04.453229,13.273,19.177,16.274,"Error trying to execute readMeasurement(): Not enough data received
+",-16.044
+0:06:05.369607,13.138,19.177,16.173,"Error trying to execute readMeasurement(): Not enough data received
+",-15.928
+0:06:06.284725,13.104,19.143,16.106,"Error trying to execute readMeasurement(): Not enough data received
+",-15.949
+0:06:07.201151,13.003,19.076,16.038,"Error trying to execute readMeasurement(): Not enough data received
+",-15.974
+0:06:08.116241,12.936,19.076,15.903,"Error trying to execute readMeasurement(): Not enough data received
+",-15.966
+0:06:09.032691,12.902,19.042,15.87,"Error trying to execute readMeasurement(): Not enough data received
+",-15.884
+0:06:09.949050,12.734,18.941,15.768,"Error trying to execute readMeasurement(): Not enough data received
+",-15.942
+0:06:09.949050,13.3426695,19.294191,16.348604,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:06:10.864163,12.599,18.873,15.735,"Error trying to execute readMeasurement(): Not enough data received
+",-15.896
+0:06:11.780620,12.599,18.806,15.633,"Error trying to execute readMeasurement(): Not enough data received
+",-15.959
+0:06:12.696913,12.498,18.806,15.566,"Error trying to execute readMeasurement(): Not enough data received
+",-15.843
+0:06:13.612116,12.329,18.738,15.465,"Error trying to execute readMeasurement(): Not enough data received
+",-15.79
+0:06:14.528502,12.228,18.738,15.33,"Error trying to execute readMeasurement(): Not enough data received
+",-15.844
+0:06:15.443648,12.161,18.671,15.296,"Error trying to execute readMeasurement(): Not enough data received
+",-15.906
+0:06:16.360037,11.992,18.569,15.161,"Error trying to execute readMeasurement(): Not enough data received
+",-15.754
+0:06:17.276416,11.79,18.502,15.06,"Error trying to execute readMeasurement(): Not enough data received
+",-15.734
+0:06:18.191264,11.655,18.468,15.06,"Error trying to execute readMeasurement(): Not enough data received
+",-15.713
+0:06:19.107755,11.521,18.434,14.959,"Error trying to execute readMeasurement(): Not enough data received
+",-15.73
+0:06:20.024377,11.386,18.232,14.858,"Error trying to execute readMeasurement(): Not enough data received
+",-15.714
+0:06:20.939524,11.184,18.299,14.79,"Error trying to execute readMeasurement(): Not enough data received
+",-15.698
+0:06:21.855741,10.982,18.232,14.689,"Error trying to execute readMeasurement(): Not enough data received
+",-15.57
+0:06:22.770651,10.779,18.097,14.655,"Error trying to execute readMeasurement(): Not enough data received
+",-15.616
+0:06:23.687295,10.544,18.097,14.554,"Error trying to execute readMeasurement(): Not enough data received
+",-15.559
+0:06:23.687295,11.765493,18.492842,15.149958,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:06:24.603727,10.342,17.995,14.554,"Error trying to execute readMeasurement(): Not enough data received
+",-15.535
+0:06:25.519034,10.039,17.928,14.386,"Error trying to execute readMeasurement(): Not enough data received
+",-15.436
+0:06:26.435306,9.836,17.827,14.251,"Error trying to execute readMeasurement(): Not enough data received
+",-15.367
+0:06:27.351731,9.601,17.759,14.251,"Error trying to execute readMeasurement(): Not enough data received
+",-15.442
+0:06:28.266928,9.298,17.692,14.15,"Error trying to execute readMeasurement(): Not enough data received
+",-15.269
+0:06:29.183287,8.961,17.624,14.082,"Error trying to execute readMeasurement(): Not enough data received
+",-15.34
+0:06:30.099695,8.725,17.489,14.015,"Error trying to execute readMeasurement(): Not enough data received
+",-15.237
+0:06:31.014658,8.422,17.388,13.914,"Error trying to execute readMeasurement(): Not enough data received
+",-15.089
+0:06:31.931179,8.086,17.388,13.812,"Error trying to execute readMeasurement(): Not enough data received
+",-15.264
+0:06:32.846351,7.749,17.253,13.779,"Error trying to execute readMeasurement(): Not enough data received
+",-15.017
+0:06:33.762733,7.379,17.118,13.678,"Error trying to execute readMeasurement(): Not enough data received
+",-14.969
+0:06:34.679147,7.009,16.983,13.576,"Error trying to execute readMeasurement(): Not enough data received
+",-15.069
+0:06:35.594253,6.74,16.949,13.509,"Error trying to execute readMeasurement(): Not enough data received
+",-14.999
+0:06:36.510631,6.403,16.814,13.374,"Error trying to execute readMeasurement(): Not enough data received
+",-14.852
+0:06:37.427034,6.0,16.646,13.34,"Error trying to execute readMeasurement(): Not enough data received
+",-14.915
+0:06:37.427034,8.368891,17.41269,13.9045315,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:06:38.342201,5.731,16.544,13.206,"Error trying to execute readMeasurement(): Not enough data received
+",-14.878
+0:06:39.258465,5.428,16.443,13.172,"Error trying to execute readMeasurement(): Not enough data received
+",-14.842
+0:06:40.173482,5.058,16.342,13.003,"Error trying to execute readMeasurement(): Not enough data received
+",-14.694
+0:06:41.089756,4.756,16.308,13.003,"Error trying to execute readMeasurement(): Not enough data received
+",-14.757
+0:06:41.904547,4.453,16.072,12.97," data received
+",-14.726
+0:06:42.819665,4.117,15.937,12.835,"Error trying to execute readMeasurement(): Not enough data received
+",-14.651
+0:06:43.736047,3.814,15.836,12.801,"Error trying to execute readMeasurement(): Not enough data received
+",-14.574
+0:06:44.652424,3.411,15.667,12.633,"Error trying to execute readMeasurement(): Not enough data received
+",-14.641
+0:06:45.567529,3.142,15.633,12.531,"Error trying to execute readMeasurement(): Not enough data received
+",-14.423
+0:06:46.484009,2.772,15.397,12.498,"Error trying to execute readMeasurement(): Not enough data received
+",-14.519
+0:06:47.400480,2.436,15.296,12.363,"Error trying to execute readMeasurement(): Not enough data received
+",-14.409
+0:06:48.315532,2.033,15.161,12.363,"Error trying to execute readMeasurement(): Not enough data received
+",-14.513
+0:06:49.231981,1.764,14.993,12.262,"Error trying to execute readMeasurement(): Not enough data received
+",-14.3
+0:06:50.147045,1.328,14.891,12.194,"Error trying to execute readMeasurement(): Not enough data received
+",-14.251
+0:06:51.063374,1.025,14.622,12.093,"Error trying to execute readMeasurement(): Not enough data received
+",-14.314
+0:06:51.063374,3.471678,15.673922,12.679792,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:06:51.979693,0.656,14.622,11.992,"Error trying to execute readMeasurement(): Not enough data received
+",-14.204
+0:06:52.895102,0.253,14.453,11.925,"Error trying to execute readMeasurement(): Not enough data received
+",-14.234
+0:06:53.811359,-0.05,14.251,11.79,"Error trying to execute readMeasurement(): Not enough data received
+",-14.087
+0:06:54.727766,-0.352,14.116,11.723,"Error trying to execute readMeasurement(): Not enough data received
+",-14.148
+0:06:55.642638,-0.755,14.015,11.655,"Error trying to execute readMeasurement(): Not enough data received
+",-14.001
+0:06:56.559299,-1.158,13.812,11.588,"Error trying to execute readMeasurement(): Not enough data received
+",-13.954
+0:06:57.475649,-1.527,13.678,11.386,"Error trying to execute readMeasurement(): Not enough data received
+",-13.942
+0:06:58.390775,-1.863,13.543,11.386,"Error trying to execute readMeasurement(): Not enough data received
+",-14.009
+0:06:59.307201,-2.299,13.34,11.318,"Error trying to execute readMeasurement(): Not enough data received
+",-13.829
+0:07:00.222347,-2.702,13.138,11.217,"Error trying to execute readMeasurement(): Not enough data received
+",-13.817
+0:07:01.138726,-3.004,12.97,11.116,"Error trying to execute readMeasurement(): Not enough data received
+",-13.773
+0:07:02.055036,-3.305,12.835,10.948,"Error trying to execute readMeasurement(): Not enough data received
+",-13.692
+0:07:02.970245,-3.708,12.666,10.881,"Error trying to execute readMeasurement(): Not enough data received
+",-13.681
+0:07:03.886660,-4.043,12.531,10.746,"Error trying to execute readMeasurement(): Not enough data received
+",-13.636
+0:07:04.803059,-4.446,12.296,10.645,"Error trying to execute readMeasurement(): Not enough data received
+",-13.629
+0:07:04.803059,-1.7906463,13.522508,11.370149,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:07:05.717931,-4.781,12.161,10.611,"Error trying to execute readMeasurement(): Not enough data received
+",-13.551
+0:07:06.634552,-5.317,11.959,10.476,"Error trying to execute readMeasurement(): Not enough data received
+",-13.324
+0:07:07.549702,-5.686,11.858,10.375,"Error trying to execute readMeasurement(): Not enough data received
+",-13.48
+0:07:08.466086,-6.021,11.622,10.241,"Error trying to execute readMeasurement(): Not enough data received
+",-13.514
+0:07:09.382506,-6.357,11.42,10.173,"Error trying to execute readMeasurement(): Not enough data received
+",-13.334
+0:07:10.297639,-6.725,11.251,10.106,"Error trying to execute readMeasurement(): Not enough data received
+",-13.323
+0:07:11.214033,-7.094,11.049,9.971,"Error trying to execute readMeasurement(): Not enough data received
+",-13.352
+0:07:12.130385,-7.362,10.813,9.938,"Error trying to execute readMeasurement(): Not enough data received
+",-13.279
+0:07:13.045535,-7.63,10.746,9.803,"Error trying to execute readMeasurement(): Not enough data received
+",-13.165
+0:07:13.961931,-8.032,10.577,9.702,"Error trying to execute readMeasurement(): Not enough data received
+",-13.117
+0:07:14.877059,-8.434,10.342,9.634,"Error trying to execute readMeasurement(): Not enough data received
+",-13.217
+0:07:15.793481,-8.702,10.207,9.567,"Error trying to execute readMeasurement(): Not enough data received
+",-13.148
+0:07:16.709827,-9.036,9.938,9.432,"Error trying to execute readMeasurement(): Not enough data received
+",-13.148
+0:07:17.624659,-9.304,9.803,9.365,"Error trying to execute readMeasurement(): Not enough data received
+",-13.005
+0:07:18.541435,-9.673,9.668,9.197,"Error trying to execute readMeasurement(): Not enough data received
+",-13.073
+0:07:18.541435,-7.2587123,10.93902,9.919574,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:07:19.457754,-9.907,9.466,9.197,"Error trying to execute readMeasurement(): Not enough data received
+",-12.966
+0:07:20.372868,-10.242,9.264,9.062,"Error trying to execute readMeasurement(): Not enough data received
+",-13.074
+0:07:21.289249,-10.51,9.028,8.995,"Error trying to execute readMeasurement(): Not enough data received
+",-12.902
+0:07:22.204407,-10.744,8.961,8.86,"Error trying to execute readMeasurement(): Not enough data received
+",-12.861
+0:07:23.120819,-11.078,8.725,8.725,"Error trying to execute readMeasurement(): Not enough data received
+",-12.859
+0:07:24.037208,-11.313,8.49,8.692,"Error trying to execute readMeasurement(): Not enough data received
+",-12.896
+0:07:24.952288,-11.714,8.389,8.557,"Error trying to execute readMeasurement(): Not enough data received
+",-12.831
+0:07:25.868668,-11.982,8.153,8.523,"Error trying to execute readMeasurement(): Not enough data received
+",-12.763
+0:07:26.785066,-12.183,8.052,8.355,"Error trying to execute readMeasurement(): Not enough data received
+",-12.726
+0:07:27.700207,-12.551,7.85,8.321,"Error trying to execute readMeasurement(): Not enough data received
+",-12.653
+0:07:28.616615,-12.852,7.581,8.187,"Error trying to execute readMeasurement(): Not enough data received
+",-12.687
+0:07:29.533045,-13.119,7.446,8.086,"Error trying to execute readMeasurement(): Not enough data received
+",-12.655
+0:07:30.448175,-13.42,7.278,7.985,"Error trying to execute readMeasurement(): Not enough data received
+",-12.586
+0:07:31.364560,-13.688,7.076,7.884,"Error trying to execute readMeasurement(): Not enough data received
+",-12.476
+0:07:32.279710,-13.989,6.874,7.85,"Error trying to execute readMeasurement(): Not enough data received
+",-12.542
+0:07:32.279710,-11.879086,8.220614,8.494307,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:07:33.196089,-14.29,6.673,7.682,"Error trying to execute readMeasurement(): Not enough data received
+",-12.51
+0:07:34.112488,-14.59,6.605,7.615,"Error trying to execute readMeasurement(): Not enough data received
+",-12.442
+0:07:35.027600,-14.791,6.269,7.48,"Error trying to execute readMeasurement(): Not enough data received
+",-12.442
+0:07:35.944004,-15.192,6.202,7.312,"Error trying to execute readMeasurement(): Not enough data received
+",-12.41
+0:07:36.860411,-15.493,5.966,7.312,"Error trying to execute readMeasurement(): Not enough data received
+",-12.305
+0:07:37.775500,-15.66,5.865,7.245,"Error trying to execute readMeasurement(): Not enough data received
+",-12.338
+0:07:38.691963,-16.128,5.663,7.076,"Error trying to execute readMeasurement(): Not enough data received
+",-12.196
+0:07:39.607127,-16.328,5.529,6.908,"Error trying to execute readMeasurement(): Not enough data received
+",-12.335
+0:07:40.523460,-16.562,5.226,6.874,"Error trying to execute readMeasurement(): Not enough data received
+",-12.164
+0:07:41.439863,-16.829,5.058,6.74,"Error trying to execute readMeasurement(): Not enough data received
+",-12.272
+0:07:42.355039,-17.13,4.957,6.639,"Error trying to execute readMeasurement(): Not enough data received
+",-12.174
+0:07:43.271433,-17.431,4.688,6.538,"Error trying to execute readMeasurement(): Not enough data received
+",-12.032
+0:07:44.187825,-17.698,4.554,6.403,"Error trying to execute readMeasurement(): Not enough data received
+",-12.098
+0:07:45.102985,-18.065,4.352,6.303,"Error trying to execute readMeasurement(): Not enough data received
+",-12.065
+0:07:46.019319,-18.399,4.083,6.134,"Error trying to execute readMeasurement(): Not enough data received
+",-12.034
+0:07:46.019319,-16.230064,5.4909387,6.9776864,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:07:46.934525,-18.566,3.949,6.0,"Error trying to execute readMeasurement(): Not enough data received
+",-11.928
+0:07:47.850869,-18.967,3.747,5.899,"Error trying to execute readMeasurement(): Not enough data received
+",-11.888
+0:07:48.767262,-19.234,3.646,5.832,"Error trying to execute readMeasurement(): Not enough data received
+",-11.848
+0:07:49.682456,-19.568,3.444,5.731,"Error trying to execute readMeasurement(): Not enough data received
+",-11.881
+0:07:50.598766,-19.935,3.31,5.663,"Error trying to execute readMeasurement(): Not enough data received
+",-11.85
+0:07:51.515238,-20.168,3.008,5.495,"Error trying to execute readMeasurement(): Not enough data received
+",-11.744
+0:07:52.430357,-20.369,2.907,5.294,"Error trying to execute readMeasurement(): Not enough data received
+",-11.703
+0:07:53.346732,-20.736,2.604,5.26,"Error trying to execute readMeasurement(): Not enough data received
+",-11.738
+0:07:54.261947,-21.036,2.47,5.058,"Error trying to execute readMeasurement(): Not enough data received
+",-11.668
+0:07:55.178353,-21.336,2.268,5.025,"Error trying to execute readMeasurement(): Not enough data received
+",-11.706
+0:07:56.094711,-21.603,2.1,4.856,"Error trying to execute readMeasurement(): Not enough data received
+",-11.605
+0:07:57.009843,-21.836,1.832,4.823,"Error trying to execute readMeasurement(): Not enough data received
+",-11.568
+0:07:57.926202,-22.203,1.664,4.655,"Error trying to execute readMeasurement(): Not enough data received
+",-11.57
+0:07:58.842515,-22.403,1.496,4.621,"Error trying to execute readMeasurement(): Not enough data received
+",-11.537
+0:07:59.757714,-22.67,1.328,4.487,"Error trying to execute readMeasurement(): Not enough data received
+",-11.506
+0:07:59.757714,-20.628576,2.687312,5.257718,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:08:00.674101,-22.904,1.16,4.318,"Error trying to execute readMeasurement(): Not enough data received
+",-11.51
+0:08:01.590443,-23.137,0.958,4.184,"Error trying to execute readMeasurement(): Not enough data received
+",-11.482
+0:08:02.505761,-23.437,0.757,4.083,"Error trying to execute readMeasurement(): Not enough data received
+",-11.38
+0:08:03.422048,-23.837,0.589,3.915,"Error trying to execute readMeasurement(): Not enough data received
+",-11.382
+0:08:04.337157,-24.07,0.387,3.915,"Error trying to execute readMeasurement(): Not enough data received
+",-11.386
+0:08:05.253620,-24.37,0.119,3.781,"Error trying to execute readMeasurement(): Not enough data received
+",-11.175
+0:08:06.169927,-24.637,-0.017,3.68,"Error trying to execute readMeasurement(): Not enough data received
+",-11.199
+0:08:07.084732,-24.97,-0.252,3.512,"Error trying to execute readMeasurement(): Not enough data received
+",-11.233
+0:08:08.001448,-25.303,-0.52,3.411,"Error trying to execute readMeasurement(): Not enough data received
+",-11.056
+0:08:08.917815,-25.603,-0.655,3.276,"Error trying to execute readMeasurement(): Not enough data received
+",-11.154
+0:08:09.832401,-25.903,-0.822,3.176,"Error trying to execute readMeasurement(): Not enough data received
+",-11.047
+0:08:10.749404,-26.269,-1.024,3.075,"Error trying to execute readMeasurement(): Not enough data received
+",-11.046
+0:08:11.664472,-26.503,-1.292,2.907,"Error trying to execute readMeasurement(): Not enough data received
+",-11.046
+0:08:12.580893,-26.802,-1.427,2.772,"Error trying to execute readMeasurement(): Not enough data received
+",-10.94
+0:08:13.497305,-27.135,-1.729,2.672,"Error trying to execute readMeasurement(): Not enough data received
+",-11.048
+0:08:13.497305,-24.903296,-0.18615586,3.5117357,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:08:14.412359,-27.335,-1.829,2.504,"Error trying to execute readMeasurement(): Not enough data received
+",-10.876
+0:08:15.328827,-27.568,-1.997,2.47,"Error trying to execute readMeasurement(): Not enough data received
+",-10.837
+0:08:16.245239,-28.034,-2.265,2.268,"Error trying to execute readMeasurement(): Not enough data received
+",-10.87
+0:08:17.160080,-28.301,-2.433,2.201,"Error trying to execute readMeasurement(): Not enough data received
+",-10.765
+0:08:18.076858,-28.5,-2.635,2.067,"Error trying to execute readMeasurement(): Not enough data received
+",-10.799
+0:08:18.991910,-28.866,-2.869,1.899,"Error trying to execute readMeasurement(): Not enough data received
+",-10.73
+0:08:19.908269,-29.166,-3.104,1.832,"Error trying to execute readMeasurement(): Not enough data received
+",-10.694
+0:08:20.824678,-29.332,-3.272,1.697,"Error trying to execute readMeasurement(): Not enough data received
+",-10.731
+0:08:21.739764,-29.665,-3.507,1.596,"Error trying to execute readMeasurement(): Not enough data received
+",-10.776
+0:08:22.656189,-29.831,-3.607,1.529,"Error trying to execute readMeasurement(): Not enough data received
+",-10.574
+0:08:23.572583,-30.097,-3.842,1.395,"Error trying to execute readMeasurement(): Not enough data received
+",-10.68
+0:08:24.487729,-30.197,-4.077,1.261,"Error trying to execute readMeasurement(): Not enough data received
+",-10.693
+0:08:25.404133,-30.53,-4.278,1.193,"Error trying to execute readMeasurement(): Not enough data received
+",-10.6
+0:08:26.319324,-30.596,-4.446,1.126,"Error trying to execute readMeasurement(): Not enough data received
+",-10.645
+0:08:27.235645,-30.763,-4.68,0.925,"Error trying to execute readMeasurement(): Not enough data received
+",-10.589
+0:08:27.235645,-29.21228,-3.2271078,1.7397759,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:08:28.152026,-30.996,-4.848,0.891,"Error trying to execute readMeasurement(): Not enough data received
+",-10.638
+0:08:29.067273,-31.195,-5.049,0.723,"Error trying to execute readMeasurement(): Not enough data received
+",-10.548
+0:08:29.983595,-31.262,-5.351,0.622,"Error trying to execute readMeasurement(): Not enough data received
+",-10.525
+0:08:30.899990,-31.561,-5.418,0.454,"Error trying to execute readMeasurement(): Not enough data received
+",-10.611
+0:08:31.815158,-31.794,-5.619,0.354,"Error trying to execute readMeasurement(): Not enough data received
+",-10.415
+0:08:32.731391,-31.96,-5.72,0.186,"Error trying to execute readMeasurement(): Not enough data received
+",-10.347
+0:08:33.647902,-32.326,-5.954,0.052,"Error trying to execute readMeasurement(): Not enough data received
+",-10.384
+0:08:34.563070,-32.558,-6.088,-0.017,"Error trying to execute readMeasurement(): Not enough data received
+",-10.32
+0:08:35.479438,-32.758,-6.323,-0.151,"Error trying to execute readMeasurement(): Not enough data received
+",-10.324
+0:08:36.394613,-33.156,-6.524,-0.218,"Error trying to execute readMeasurement(): Not enough data received
+",-10.187
+0:08:37.310976,-33.356,-6.725,-0.285,"Error trying to execute readMeasurement(): Not enough data received
+",-10.147
+0:08:38.227343,-33.755,-6.893,-0.42,"Error trying to execute readMeasurement(): Not enough data received
+",-10.107
+0:08:39.142562,-34.054,-7.027,-0.52,"Error trying to execute readMeasurement(): Not enough data received
+",-10.14
+0:08:40.058890,-34.386,-7.261,-0.621,"Error trying to execute readMeasurement(): Not enough data received
+",-10.072
+0:08:40.975326,-34.718,-7.496,-0.755,"Error trying to execute readMeasurement(): Not enough data received
+",-10.0
+0:08:40.975326,-32.600113,-6.1017537,0.03089044,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:08:41.890452,-35.117,-7.596,-0.822,"Error trying to execute readMeasurement(): Not enough data received
+",-9.886
+0:08:42.806813,-35.515,-7.797,-0.889,"Error trying to execute readMeasurement(): Not enough data received
+",-9.802
+0:08:43.722027,-35.914,-7.965,-1.024,"Error trying to execute readMeasurement(): Not enough data received
+",-9.823
+0:08:44.638314,-36.312,-8.166,-1.158,"Error trying to execute readMeasurement(): Not enough data received
+",-9.78
+0:08:45.554743,-36.777,-8.4,-1.259,"Error trying to execute readMeasurement(): Not enough data received
+",-9.589
+0:08:46.469914,-37.208,-8.668,-1.326,"Error trying to execute readMeasurement(): Not enough data received
+",-9.567
+0:08:47.386311,-37.607,-8.903,-1.494,"Error trying to execute readMeasurement(): Not enough data received
+",-9.51
+0:08:48.302656,-38.104,-9.17,-1.527,"Error trying to execute readMeasurement(): Not enough data received
+",-9.602
+0:08:49.217782,-38.469,-9.271,-1.661,"Error trying to execute readMeasurement(): Not enough data received
+",-9.525
+0:08:50.134206,-38.934,-9.505,-1.829,"Error trying to execute readMeasurement(): Not enough data received
+",-9.299
+0:08:51.049367,-39.398,-9.706,-1.863,"Error trying to execute readMeasurement(): Not enough data received
+",-9.38
+0:08:51.965734,-39.796,-9.94,-1.997,"Error trying to execute readMeasurement(): Not enough data received
+",-9.297
+0:08:52.882094,-40.26,-10.175,-2.098,"Error trying to execute readMeasurement(): Not enough data received
+",-9.209
+0:08:53.797314,-40.824,-10.409,-2.198,"Error trying to execute readMeasurement(): Not enough data received
+",-9.043
+0:08:54.713729,-41.188,-10.576,-2.333,"Error trying to execute readMeasurement(): Not enough data received
+",-9.086
+0:08:54.713729,-37.98862,-9.040822,-1.524943,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:08:55.630086,-41.652,-10.844,-2.467,"Error trying to execute readMeasurement(): Not enough data received
+",-9.066
+0:08:56.545154,-42.116,-11.145,-2.567,"Error trying to execute readMeasurement(): Not enough data received
+",-9.014
+0:08:57.461631,-42.58,-11.279,-2.635,"Error trying to execute readMeasurement(): Not enough data received
+",-8.964
+0:08:58.376738,-43.11,-11.614,-2.735,"Error trying to execute readMeasurement(): Not enough data received
+",-8.765
+0:08:59.292895,-43.607,-11.748,-2.869,"Error trying to execute readMeasurement(): Not enough data received
+",-8.807
+0:09:00.209530,-43.971,-12.015,-2.903,"Error trying to execute readMeasurement(): Not enough data received
+",-8.826
+0:09:01.124648,-44.501,-12.25,-3.071,"Error trying to execute readMeasurement(): Not enough data received
+",-8.667
+0:09:02.041051,-44.997,-12.484,-3.205,"Error trying to execute readMeasurement(): Not enough data received
+",-8.645
+0:09:02.957412,-45.527,-12.718,-3.305,"Error trying to execute readMeasurement(): Not enough data received
+",-8.443
+0:09:03.872253,-45.99,-12.952,-3.44,"Error trying to execute readMeasurement(): Not enough data received
+",-8.48
+0:09:04.789003,-46.487,-13.22,-3.54,"Error trying to execute readMeasurement(): Not enough data received
+",-8.496
+0:09:05.705383,-46.983,-13.521,-3.607,"Error trying to execute readMeasurement(): Not enough data received
+",-8.334
+0:09:06.620469,-47.479,-13.821,-3.742,"Error trying to execute readMeasurement(): Not enough data received
+",-8.234
+0:09:07.536861,-48.173,-14.089,-3.809,"Error trying to execute readMeasurement(): Not enough data received
+",-8.24
+0:09:08.452047,-48.669,-14.256,-3.909,"Error trying to execute readMeasurement(): Not enough data received
+",-8.107
+0:09:08.452047,-44.93927,-12.465713,-3.162333,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:09:09.368439,-49.132,-14.524,-4.077,"Error trying to execute readMeasurement(): Not enough data received
+",-8.077
+0:09:10.284817,-49.595,-14.758,-4.178,"Error trying to execute readMeasurement(): Not enough data received
+",-8.159
+0:09:11.199913,-50.124,-15.058,-4.278,"Error trying to execute readMeasurement(): Not enough data received
+",-7.965
+0:09:12.116314,-50.586,-15.359,-4.345,"Error trying to execute readMeasurement(): Not enough data received
+",-7.939
+0:09:13.032697,-51.115,-15.627,-4.513,"Error trying to execute readMeasurement(): Not enough data received
+",-7.843
+0:09:13.947895,-51.643,-15.894,-4.613,"Error trying to execute readMeasurement(): Not enough data received
+",-7.852
+0:09:14.864264,-52.171,-16.128,-4.647,"Error trying to execute readMeasurement(): Not enough data received
+",-7.651
+0:09:15.779555,-52.667,-16.495,-4.815,"Error trying to execute readMeasurement(): Not enough data received
+",-7.616
+0:09:16.695668,-53.294,-16.763,-4.949,"Error trying to execute readMeasurement(): Not enough data received
+",-7.586
+0:09:17.612128,-53.855,-17.097,-5.016,"Error trying to execute readMeasurement(): Not enough data received
+",-7.45
+0:09:18.527391,-54.284,-17.264,-5.217,"Error trying to execute readMeasurement(): Not enough data received
+",-7.488
+0:09:19.443721,-54.812,-17.497,-5.284,"Error trying to execute readMeasurement(): Not enough data received
+",-7.429
+0:09:20.360143,-55.405,-17.698,-5.418,"Error trying to execute readMeasurement(): Not enough data received
+",-7.297
+0:09:21.275243,-55.933,-18.065,-5.485,"Error trying to execute readMeasurement(): Not enough data received
+",-7.374
+0:09:22.191469,-56.46,-18.299,-5.619,"Error trying to execute readMeasurement(): Not enough data received
+",-7.177
+0:09:22.191469,-52.59751,-16.372635,-4.8033895,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:09:23.106779,-57.021,-18.666,-5.72,"Error trying to execute readMeasurement(): Not enough data received
+",-7.112
+0:09:24.023124,-57.614,-18.967,-5.82,"Error trying to execute readMeasurement(): Not enough data received
+",-7.007
+0:09:24.939433,-58.174,-19.2,-5.954,"Error trying to execute readMeasurement(): Not enough data received
+",-6.972
+0:09:25.854393,-58.701,-19.568,-6.088,"Error trying to execute readMeasurement(): Not enough data received
+",-6.905
+0:09:26.771068,-59.261,-19.868,-6.155,"Error trying to execute readMeasurement(): Not enough data received
+",-6.803
+0:09:27.687490,-59.722,-20.135,-6.357,"Error trying to execute readMeasurement(): Not enough data received
+",-6.767
+0:09:28.602612,-60.282,-20.435,-6.491,"Error trying to execute readMeasurement(): Not enough data received
+",-6.809
+0:09:29.518971,-60.776,-20.736,-6.591,"Error trying to execute readMeasurement(): Not enough data received
+",-6.718
+0:09:30.434133,-61.368,-21.069,-6.658,"Error trying to execute readMeasurement(): Not enough data received
+",-6.585
+0:09:31.350541,-61.927,-21.336,-6.792,"Error trying to execute readMeasurement(): Not enough data received
+",-6.482
+0:09:32.266941,-62.454,-21.57,-6.96,"Error trying to execute readMeasurement(): Not enough data received
+",-6.484
+0:09:33.182169,-63.013,-21.87,-7.094,"Error trying to execute readMeasurement(): Not enough data received
+",-6.384
+0:09:34.098466,-63.572,-22.103,-7.228,"Error trying to execute readMeasurement(): Not enough data received
+",-6.319
+0:09:35.014890,-64.032,-22.37,-7.295,"Error trying to execute readMeasurement(): Not enough data received
+",-6.287
+0:09:35.930010,-64.69,-22.67,-7.462,"Error trying to execute readMeasurement(): Not enough data received
+",-6.152
+0:09:35.930010,-60.70223,-20.62858,-6.5374703,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:09:36.846384,-65.281,-22.937,-7.663,"Error trying to execute readMeasurement(): Not enough data received
+",-6.081
+0:09:37.762783,-65.938,-23.237,-7.697,"Error trying to execute readMeasurement(): Not enough data received
+",-5.938
+0:09:38.677979,-66.464,-23.47,-7.797,"Error trying to execute readMeasurement(): Not enough data received
+",-6.076
+0:09:39.594338,-66.956,-23.77,-7.965,"Error trying to execute readMeasurement(): Not enough data received
+",-5.841
+0:09:40.509524,-67.547,-24.137,-8.032,"Error trying to execute readMeasurement(): Not enough data received
+",-5.946
+0:09:41.425915,-67.974,-24.304,-8.199,"Error trying to execute readMeasurement(): Not enough data received
+",-5.891
+0:09:42.342249,-68.434,-24.737,-8.333,"Error trying to execute readMeasurement(): Not enough data received
+",-5.764
+0:09:43.257425,-69.024,-25.004,-8.501,"Error trying to execute readMeasurement(): Not enough data received
+",-5.629
+0:09:44.173790,-69.484,-25.27,-8.568,"Error trying to execute readMeasurement(): Not enough data received
+",-5.63
+0:09:45.090133,-70.074,-25.537,-8.735,"Error trying to execute readMeasurement(): Not enough data received
+",-5.641
+0:09:46.005342,-70.566,-25.87,-8.836,"Error trying to execute readMeasurement(): Not enough data received
+",-5.476
+0:09:46.921598,-71.09,-26.07,-9.036,"Error trying to execute readMeasurement(): Not enough data received
+",-5.553
+0:09:47.836850,-71.648,-26.369,-9.17,"Error trying to execute readMeasurement(): Not enough data received
+",-5.358
+0:09:48.753198,-72.139,-26.636,-9.338,"Error trying to execute readMeasurement(): Not enough data received
+",-5.256
+0:09:49.669633,-72.631,-26.902,-9.472,"Error trying to execute readMeasurement(): Not enough data received
+",-5.329
+0:09:49.669633,-68.883224,-24.887785,-8.4515085,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:09:50.584853,-73.188,-27.235,-9.572,"Error trying to execute readMeasurement(): Not enough data received
+",-5.021
+0:09:51.501112,-73.646,-27.535,-9.673,"Error trying to execute readMeasurement(): Not enough data received
+",-5.265
+0:09:52.417588,-74.17,-27.835,-9.907,"Error trying to execute readMeasurement(): Not enough data received
+",-5.181
+0:09:53.332636,-74.661,-28.167,-10.007,"Error trying to execute readMeasurement(): Not enough data received
+",-5.058
+0:09:54.249018,-75.218,-28.5,-10.208,"Error trying to execute readMeasurement(): Not enough data received
+",-4.855
+0:09:55.164142,-75.709,-28.7,-10.342,"Error trying to execute readMeasurement(): Not enough data received
+",-4.924
+0:09:56.080514,-76.199,-28.933,-10.576,"Error trying to execute readMeasurement(): Not enough data received
+",-4.902
+0:09:56.996875,-77.279,-29.232,-10.677,"Error trying to execute readMeasurement(): Not enough data received
+",-4.63
+0:09:57.912086,-97.629,-29.565,-10.878,"Error trying to execute readMeasurement(): Not enough data received
+",11.037
+0:09:58.828506,-97.823,-29.931,-11.078,"Error trying to execute readMeasurement(): Not enough data received
+",3.428
+0:09:59.744862,-97.92,-30.131,-11.246,"Error trying to execute readMeasurement(): Not enough data received
+",-2.777
+0:10:00.659978,-97.92,-30.397,-11.38,"Error trying to execute readMeasurement(): Not enough data received
+",-2.638
+0:10:01.576369,-98.082,-30.663,-11.547,"Error trying to execute readMeasurement(): Not enough data received
+",-2.626
+0:10:02.491539,-98.439,-31.029,-11.681,"Error trying to execute readMeasurement(): Not enough data received
+",-2.257
+0:10:03.407891,-98.633,-31.262,-11.882,"Error trying to execute readMeasurement(): Not enough data received
+",-2.528
+0:10:03.407891,-85.250015,-29.203346,-10.687968,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:10:04.324217,-98.795,-31.661,-12.015,"Error trying to execute readMeasurement(): Not enough data received
+",-2.441
+0:10:05.239488,-98.892,-31.927,-12.183,"Error trying to execute readMeasurement(): Not enough data received
+",-2.49
+0:10:06.155842,-99.054,-32.193,-12.383,"Error trying to execute readMeasurement(): Not enough data received
+",-2.51
+0:10:07.072222,-99.152,-32.525,-12.517,"Error trying to execute readMeasurement(): Not enough data received
+",-2.32
+0:10:07.987360,-99.411,-32.891,-12.684,"Error trying to execute readMeasurement(): Not enough data received
+",-2.395
+0:10:08.903714,-99.475,-33.123,-12.885,"Error trying to execute readMeasurement(): Not enough data received
+",-2.59
+0:10:09.820129,-99.605,-33.356,-13.052,"Error trying to execute readMeasurement(): Not enough data received
+",-2.308
+0:10:10.735285,-99.67,-33.622,-13.153,"Error trying to execute readMeasurement(): Not enough data received
+",-2.353
+0:10:11.651676,-99.961,-33.888,-13.353,"Error trying to execute readMeasurement(): Not enough data received
+",-2.262
+0:10:12.567388,-100.091,-34.22,-13.454,"Error trying to execute readMeasurement(): Not enough data received
+",-2.413
+0:10:13.380116,-100.155,-34.386,-13.721,"Error trying to execute readMeasurement(): Not enough data received
+",-2.277
+0:10:14.194846,-100.317,-34.685,-13.788,"Error trying to execute readMeasurement(): Not enough data received
+",-2.298
+0:10:15.009656,-100.414,-34.951,-13.888,"Error trying to execute readMeasurement(): Not enough data received
+",-2.323
+0:10:15.824537,-100.609,-35.117,-14.089,"Error trying to execute readMeasurement(): Not enough data received
+",-2.311
+0:10:16.636408,-100.706,-35.382,-14.323,"Error trying to execute readMeasurement(): Not enough data received
+",-2.26
+0:10:16.636408,-99.72359,-33.52181,-13.125851,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:10:17.451103,-100.738,-35.548,-14.423,"Error trying to execute readMeasurement(): Not enough data received
+",-2.246
+0:10:18.266311,-100.965,-35.814,-14.59,"ugh data received
+",-2.19
+0:10:19.182995,-101.094,-36.146,-14.791,"Error trying to execute readMeasurement(): Not enough data received
+",-2.19
+0:10:20.097905,-101.256,-36.312,-14.992,"Error trying to execute readMeasurement(): Not enough data received
+",-2.241
+0:10:21.014543,-101.385,-36.478,-15.159,"Error trying to execute readMeasurement(): Not enough data received
+",-2.195
+0:10:21.929805,-101.482,-36.677,-15.326,"Error trying to execute readMeasurement(): Not enough data received
+",-2.214
+0:10:22.846131,-101.676,-36.91,-15.393,"Error trying to execute readMeasurement(): Not enough data received
+",-2.06
+0:10:23.762486,-101.806,-37.241,-15.593,"Error trying to execute readMeasurement(): Not enough data received
+",-2.176
+0:10:24.677605,-101.968,-37.374,-15.794,"Error trying to execute readMeasurement(): Not enough data received
+",-2.164
+0:10:25.594020,-101.935,-37.607,-15.961,"Error trying to execute readMeasurement(): Not enough data received
+",-2.081
+0:10:26.510444,-102.097,-37.872,-16.195,"Error trying to execute readMeasurement(): Not enough data received
+",-2.169
+0:10:27.425592,-102.194,-38.104,-16.261,"Error trying to execute readMeasurement(): Not enough data received
+",-2.054
+0:10:28.341968,-102.356,-38.403,-16.395,"Error trying to execute readMeasurement(): Not enough data received
+",-2.106
+0:10:29.257114,-102.388,-38.536,-16.529,"Error trying to execute readMeasurement(): Not enough data received
+",-2.165
+0:10:30.173515,-102.485,-38.801,-16.729,"Error trying to execute readMeasurement(): Not enough data received
+",-2.055
+0:10:30.173515,-101.6936,-37.135082,-15.575269,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:10:31.089839,-102.647,-38.934,-16.93,"Error trying to execute readMeasurement(): Not enough data received
+",-2.111
+0:10:32.005019,-102.711,-39.232,-17.063,"Error trying to execute readMeasurement(): Not enough data received
+",-1.995
+0:10:32.921442,-102.744,-39.398,-17.297,"Error trying to execute readMeasurement(): Not enough data received
+",-2.048
+0:10:33.837771,-102.873,-39.63,-17.397,"Error trying to execute readMeasurement(): Not enough data received
+",-2.107
+0:10:34.752899,-102.97,-39.73,-17.531,"Error trying to execute readMeasurement(): Not enough data received
+",-2.068
+0:10:35.669363,-103.455,-39.929,-17.765,"Error trying to execute readMeasurement(): Not enough data received
+",-1.633
+0:10:36.584456,-103.487,-40.094,-17.831,"Error trying to execute readMeasurement(): Not enough data received
+",-1.934
+0:10:37.500834,-103.617,-40.227,-17.965,"Error trying to execute readMeasurement(): Not enough data received
+",-1.955
+0:10:38.417129,-103.617,-40.426,-18.132,"Error trying to execute readMeasurement(): Not enough data received
+",-1.979
+0:10:39.332425,-103.714,-40.592,-18.266,"Error trying to execute readMeasurement(): Not enough data received
+",-1.971
+0:10:40.248715,-103.875,-40.791,-18.466,"Error trying to execute readMeasurement(): Not enough data received
+",-1.892
+0:10:41.165124,-103.875,-41.023,-18.633,"Error trying to execute readMeasurement(): Not enough data received
+",-1.983
+0:10:42.080273,-103.907,-41.188,-18.733,"Error trying to execute readMeasurement(): Not enough data received
+",-1.944
+0:10:42.996544,-104.004,-41.321,-18.833,"Error trying to execute readMeasurement(): Not enough data received
+",-1.865
+0:10:43.911766,-104.134,-41.52,-18.967,"Error trying to execute readMeasurement(): Not enough data received
+",-1.956
+0:10:43.911766,-103.42903,-40.240093,-17.938267,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:10:44.828212,-104.198,-41.652,-19.1,"Error trying to execute readMeasurement(): Not enough data received
+",-1.881
+0:10:45.744610,-104.198,-41.818,-19.301,"Error trying to execute readMeasurement(): Not enough data received
+",-1.941
+0:10:46.659732,-104.36,-41.984,-19.467,"Error trying to execute readMeasurement(): Not enough data received
+",-1.866
+0:10:47.576173,-104.424,-42.149,-19.568,"Error trying to execute readMeasurement(): Not enough data received
+",-2.032
+0:10:48.492563,-104.457,-42.315,-19.668,"Error trying to execute readMeasurement(): Not enough data received
+",-1.79
+0:10:49.407648,-104.424,-42.481,-19.734,"Error trying to execute readMeasurement(): Not enough data received
+",-1.913
+0:10:50.324055,-104.554,-42.613,-19.901,"Error trying to execute readMeasurement(): Not enough data received
+",-1.838
+0:10:51.240517,-104.521,-42.812,-20.035,"Error trying to execute readMeasurement(): Not enough data received
+",-1.862
+0:10:52.155612,-104.651,-42.944,-20.235,"Error trying to execute readMeasurement(): Not enough data received
+",-1.854
+0:10:53.072009,-104.747,-43.11,-20.402,"Error trying to execute readMeasurement(): Not enough data received
+",-1.847
+0:10:53.987217,-104.812,-43.209,-20.435,"Error trying to execute readMeasurement(): Not enough data received
+",-1.875
+0:10:54.903508,-104.877,-43.276,-20.535,"Error trying to execute readMeasurement(): Not enough data received
+",-1.906
+0:10:55.819966,-104.844,-43.474,-20.736,"Error trying to execute readMeasurement(): Not enough data received
+",-1.8
+0:10:56.735095,-104.974,-43.607,-20.869,"Error trying to execute readMeasurement(): Not enough data received
+",-1.823
+0:10:57.651477,-105.071,-43.706,-21.003,"Error trying to execute readMeasurement(): Not enough data received
+",-1.816
+0:10:57.651477,-104.59242,-42.70363,-20.02144,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:10:58.567937,-104.941,-43.872,-21.103,"Error trying to execute readMeasurement(): Not enough data received
+",-1.808
+0:10:59.482983,-105.103,-43.971,-21.269,"Error trying to execute readMeasurement(): Not enough data received
+",-1.836
+0:11:00.399424,-105.135,-44.137,-21.403,"Error trying to execute readMeasurement(): Not enough data received
+",-1.903
+0:11:01.314569,-105.264,-44.269,-21.47,"Error trying to execute readMeasurement(): Not enough data received
+",-1.658
+0:11:02.230934,-105.297,-44.335,-21.703,"Error trying to execute readMeasurement(): Not enough data received
+",-1.884
+0:11:03.147321,-105.297,-44.534,-21.803,"Error trying to execute readMeasurement(): Not enough data received
+",-1.781
+0:11:04.062765,-105.361,-44.633,-21.903,"Error trying to execute readMeasurement(): Not enough data received
+",-1.773
+0:11:04.979014,-105.426,-44.799,-22.07,"Error trying to execute readMeasurement(): Not enough data received
+",-1.766
+0:11:05.895262,-105.555,-44.832,-22.237,"Error trying to execute readMeasurement(): Not enough data received
+",-1.793
+0:11:06.810419,-105.587,-44.898,-22.303,"Error trying to execute readMeasurement(): Not enough data received
+",-1.825
+0:11:07.726761,-105.652,-45.13,-22.437,"Error trying to execute readMeasurement(): Not enough data received
+",-1.683
+0:11:08.641887,-105.652,-45.196,-22.537,"Error trying to execute readMeasurement(): Not enough data received
+",-1.738
+0:11:09.558362,-105.684,-45.196,-22.67,"Error trying to execute readMeasurement(): Not enough data received
+",-1.802
+0:11:10.474743,-105.749,-45.428,-22.804,"Error trying to execute readMeasurement(): Not enough data received
+",-1.695
+0:11:11.389940,-105.813,-45.527,-22.904,"Error trying to execute readMeasurement(): Not enough data received
+",-1.79
+0:11:11.389940,-105.40853,-44.703873,-22.027647,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:11:12.306223,-105.846,-45.626,-23.137,"Error trying to execute readMeasurement(): Not enough data received
+",-1.719
+0:11:13.222666,-105.846,-45.759,-23.304,"Error trying to execute readMeasurement(): Not enough data received
+",-1.782
+0:11:14.137779,-105.91,-45.825,-23.404,"Error trying to execute readMeasurement(): Not enough data received
+",-1.604
+0:11:15.054166,-105.975,-45.825,-23.537,"Error trying to execute readMeasurement(): Not enough data received
+",-1.799
+0:11:15.969220,-106.039,-45.99,-23.637,"Error trying to execute readMeasurement(): Not enough data received
+",-1.66
+0:11:16.885736,-106.072,-46.056,-23.704,"Error trying to execute readMeasurement(): Not enough data received
+",-1.755
+0:11:17.802050,-106.168,-46.156,-23.77,"Error trying to execute readMeasurement(): Not enough data received
+",-1.613
+0:11:18.717182,-106.233,-46.288,-23.937,"Error trying to execute readMeasurement(): Not enough data received
+",-1.704
+0:11:19.633626,-106.265,-46.354,-24.17,"Error trying to execute readMeasurement(): Not enough data received
+",-1.558
+0:11:20.550016,-106.394,-46.454,-24.27,"Error trying to execute readMeasurement(): Not enough data received
+",-1.752
+0:11:21.465092,-106.427,-46.52,-24.37,"Error trying to execute readMeasurement(): Not enough data received
+",-1.649
+0:11:22.381588,-106.427,-46.586,-24.504,"Error trying to execute readMeasurement(): Not enough data received
+",-1.641
+0:11:23.297950,-106.523,-46.685,-24.57,"Error trying to execute readMeasurement(): Not enough data received
+",-1.705
+0:11:24.213043,-106.556,-46.718,-24.737,"Error trying to execute readMeasurement(): Not enough data received
+",-1.598
+0:11:25.129472,-106.588,-46.851,-24.77,"Error trying to execute readMeasurement(): Not enough data received
+",-1.658
+0:11:25.129472,-106.20923,-46.21749,-23.957052,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:11:26.044550,-106.653,-46.983,-24.937,"Error trying to execute readMeasurement(): Not enough data received
+",-1.689
+0:11:26.960944,-106.749,-47.115,-25.004,"Error trying to execute readMeasurement(): Not enough data received
+",-1.618
+0:11:27.877433,-106.749,-47.082,-25.137,"Error trying to execute readMeasurement(): Not enough data received
+",-1.575
+0:11:28.792503,-106.846,-47.181,-25.237,"Error trying to execute readMeasurement(): Not enough data received
+",-1.67
+0:11:29.708935,-106.814,-47.281,-25.37,"Error trying to execute readMeasurement(): Not enough data received
+",-1.563
+0:11:30.625328,-106.943,-47.446,-25.537,"Error trying to execute readMeasurement(): Not enough data received
+",-1.587
+0:11:31.540395,-106.911,-47.512,-25.637,"Error trying to execute readMeasurement(): Not enough data received
+",-1.615
+0:11:32.456685,-106.975,-47.677,-25.737,"Error trying to execute readMeasurement(): Not enough data received
+",-1.647
+0:11:33.371930,-106.911,-47.71,-25.836,"Error trying to execute readMeasurement(): Not enough data received
+",-1.611
+0:11:34.288369,-106.846,-47.81,-25.936,"Error trying to execute readMeasurement(): Not enough data received
+",-1.821
+0:11:35.204754,-106.653,-47.876,-26.103,"Error trying to execute readMeasurement(): Not enough data received
+",-1.769
+0:11:36.119896,-106.588,-47.909,-26.17,"Error trying to execute readMeasurement(): Not enough data received
+",-1.816
+0:11:37.036232,-106.427,-47.843,-26.269,"Error trying to execute readMeasurement(): Not enough data received
+",-1.761
+0:11:37.952590,-106.233,-47.81,-26.336,"Error trying to execute readMeasurement(): Not enough data received
+",-1.84
+0:11:38.867859,-106.136,-47.81,-26.403,"Error trying to execute readMeasurement(): Not enough data received
+",-1.962
+0:11:38.867859,-106.70413,-47.5473,-25.658747,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:11:39.784185,-105.942,-47.843,-26.503,"Error trying to execute readMeasurement(): Not enough data received
+",-1.882
+0:11:40.699330,-105.846,-47.942,-26.636,"Error trying to execute readMeasurement(): Not enough data received
+",-2.005
+0:11:41.615488,-105.684,-48.008,-26.769,"Error trying to execute readMeasurement(): Not enough data received
+",-1.961
+0:11:42.532085,-105.587,-48.041,-26.869,"Error trying to execute readMeasurement(): Not enough data received
+",-1.837
+0:11:43.447295,-105.587,-48.14,-26.936,"Error trying to execute readMeasurement(): Not enough data received
+",-1.841
+0:11:44.363667,-105.426,-48.24,-27.102,"Error trying to execute readMeasurement(): Not enough data received
+",-1.881
+0:11:45.280064,-105.361,-48.24,-27.102,"Error trying to execute readMeasurement(): Not enough data received
+",-1.924
+0:11:46.195138,-105.426,-48.24,-27.135,"Error trying to execute readMeasurement(): Not enough data received
+",-1.9
+0:11:47.111409,-105.361,-48.24,-27.269,"Error trying to execute readMeasurement(): Not enough data received
+",-1.801
+0:11:48.026694,-105.232,-48.339,-27.302,"Error trying to execute readMeasurement(): Not enough data received
+",-1.904
+0:11:48.943092,-105.264,-48.339,-27.402,"Error trying to execute readMeasurement(): Not enough data received
+",-1.876
+0:11:49.859494,-105.264,-48.339,-27.468,"Error trying to execute readMeasurement(): Not enough data received
+",-1.88
+0:11:50.774530,-105.297,-48.504,-27.635,"Error trying to execute readMeasurement(): Not enough data received
+",-1.848
+0:11:51.690999,-105.232,-48.57,-27.768,"Error trying to execute readMeasurement(): Not enough data received
+",-1.848
+0:11:52.607392,-105.2,-48.603,-27.835,"Error trying to execute readMeasurement(): Not enough data received
+",-1.955
+0:11:52.607392,-105.466644,-48.226315,-27.14865,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:11:53.522594,-105.2,-48.603,-27.968,"Error trying to execute readMeasurement(): Not enough data received
+",-1.824
+0:11:54.438946,-105.232,-48.669,-28.068,"Error trying to execute readMeasurement(): Not enough data received
+",-1.892
+0:11:55.355385,-105.232,-48.802,-28.201,"Error trying to execute readMeasurement(): Not enough data received
+",-1.824
+0:11:56.270509,-105.297,-48.835,-28.301,"Error trying to execute readMeasurement(): Not enough data received
+",-1.82
+0:11:57.186892,-105.2,-48.934,-28.434,"Error trying to execute readMeasurement(): Not enough data received
+",-1.817
+0:11:58.102005,-105.2,-48.934,-28.534,"Error trying to execute readMeasurement(): Not enough data received
+",-1.884
+0:11:59.018415,-105.264,-49.033,-28.567,"Error trying to execute readMeasurement(): Not enough data received
+",-1.817
+0:11:59.934788,-105.2,-49.165,-28.667,"Error trying to execute readMeasurement(): Not enough data received
+",-1.813
+0:12:00.849952,-105.264,-49.198,-28.733,"Error trying to execute readMeasurement(): Not enough data received
+",-1.916
+0:12:01.766381,-105.329,-49.165,-28.8,"Error trying to execute readMeasurement(): Not enough data received
+",-1.817
+0:12:02.682703,-105.361,-49.231,-28.9,"Error trying to execute readMeasurement(): Not enough data received
+",-1.813
+0:12:03.597866,-105.426,-49.231,-28.9,"Error trying to execute readMeasurement(): Not enough data received
+",-1.773
+0:12:04.514235,-105.393,-49.364,-29.133,"Error trying to execute readMeasurement(): Not enough data received
+",-1.872
+0:12:05.429137,-105.361,-49.297,-29.232,"Error trying to execute readMeasurement(): Not enough data received
+",-1.805
+0:12:06.345824,-105.393,-49.33,-29.332,"Error trying to execute readMeasurement(): Not enough data received
+",-1.837
+0:12:06.345824,-105.27075,-49.04839,-28.624512,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:12:07.262261,-105.555,-49.397,-29.366,"Error trying to execute readMeasurement(): Not enough data received
+",-1.801
+0:12:08.177342,-105.426,-49.397,-29.432,"Error trying to execute readMeasurement(): Not enough data received
+",-1.762
+0:12:09.093718,-105.49,-49.43,-29.532,"Error trying to execute readMeasurement(): Not enough data received
+",-1.825
+0:12:10.010088,-105.458,-49.562,-29.732,"Error trying to execute readMeasurement(): Not enough data received
+",-1.825
+0:12:10.924947,-105.523,-49.595,-29.798,"Error trying to execute readMeasurement(): Not enough data received
+",-1.789
+0:12:11.841617,-105.523,-49.727,-29.865,"Error trying to execute readMeasurement(): Not enough data received
+",-1.75
+0:12:12.756768,-105.555,-49.694,-30.031,"Error trying to execute readMeasurement(): Not enough data received
+",-1.813
+0:12:13.673161,-105.587,-49.727,-30.131,"Error trying to execute readMeasurement(): Not enough data received
+",-1.813
+0:12:14.589567,-105.555,-49.826,-30.197,"Error trying to execute readMeasurement(): Not enough data received
+",-1.742
+0:12:15.504676,-105.652,-49.925,-30.297,"Error trying to execute readMeasurement(): Not enough data received
+",-1.913
+0:12:16.421052,-105.652,-49.892,-30.463,"Error trying to execute readMeasurement(): Not enough data received
+",-1.711
+0:12:17.337468,-105.62,-49.892,-30.53,"Error trying to execute readMeasurement(): Not enough data received
+",-1.699
+0:12:18.252617,-105.749,-49.859,-30.596,"Error trying to execute readMeasurement(): Not enough data received
+",-1.758
+0:12:19.169005,-105.62,-49.859,-30.596,"Error trying to execute readMeasurement(): Not enough data received
+",-1.719
+0:12:20.084085,-105.749,-49.958,-30.663,"Error trying to execute readMeasurement(): Not enough data received
+",-1.854
+0:12:20.084085,-105.58074,-49.72483,-30.070845,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:12:21.000488,-105.716,-49.991,-30.863,"Error trying to execute readMeasurement(): Not enough data received
+",-1.719
+0:12:21.916905,-105.813,-50.024,-30.929,"Error trying to execute readMeasurement(): Not enough data received
+",-1.711
+0:12:22.832047,-105.813,-50.091,-31.029,"Error trying to execute readMeasurement(): Not enough data received
+",-1.882
+0:12:23.748466,-105.813,-50.157,-31.095,"Error trying to execute readMeasurement(): Not enough data received
+",-1.715
+0:12:24.664855,-105.846,-50.256,-31.295,"Error trying to execute readMeasurement(): Not enough data received
+",-1.779
+0:12:25.579969,-105.813,-50.223,-31.361,"Error trying to execute readMeasurement(): Not enough data received
+",-1.707
+0:12:26.496350,-105.975,-50.256,-31.461,"Error trying to execute readMeasurement(): Not enough data received
+",-1.771
+0:12:27.412752,-105.942,-50.322,-31.594,"Error trying to execute readMeasurement(): Not enough data received
+",-1.771
+0:12:28.327902,-105.975,-50.454,-31.661,"Error trying to execute readMeasurement(): Not enough data received
+",-1.735
+0:12:29.244339,-105.975,-50.52,-31.76,"Error trying to execute readMeasurement(): Not enough data received
+",-1.696
+0:12:30.159485,-105.942,-50.487,-31.827,"Error trying to execute readMeasurement(): Not enough data received
+",-1.759
+0:12:31.075814,-105.975,-50.553,-31.96,"Error trying to execute readMeasurement(): Not enough data received
+",-1.83
+0:12:31.992218,-106.007,-50.586,-31.993,"Error trying to execute readMeasurement(): Not enough data received
+",-1.625
+0:12:32.907354,-106.039,-50.619,-32.093,"Error trying to execute readMeasurement(): Not enough data received
+",-1.858
+0:12:33.823775,-106.104,-50.685,-32.159,"Error trying to execute readMeasurement(): Not enough data received
+",-1.656
+0:12:33.823775,-105.927315,-50.328415,-31.503202,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:12:34.740171,-106.201,-50.652,-32.259,"Error trying to execute readMeasurement(): Not enough data received
+",-1.68
+0:12:35.655277,-106.168,-50.718,-32.359,"Error trying to execute readMeasurement(): Not enough data received
+",-1.744
+0:12:36.571673,-106.233,-50.751,-32.459,"Error trying to execute readMeasurement(): Not enough data received
+",-1.673
+0:12:37.486827,-106.168,-50.685,-32.558,"Error trying to execute readMeasurement(): Not enough data received
+",-1.7
+0:12:38.403229,-106.168,-50.784,-32.625,"Error trying to execute readMeasurement(): Not enough data received
+",-1.732
+0:12:39.319615,-106.297,-50.817,-32.724,"Error trying to execute readMeasurement(): Not enough data received
+",-1.696
+0:12:40.234462,-106.297,-50.916,-32.791,"Error trying to execute readMeasurement(): Not enough data received
+",-1.728
+0:12:41.150961,-106.265,-50.95,-32.857,"Error trying to execute readMeasurement(): Not enough data received
+",-1.657
+0:12:42.067522,-106.265,-50.983,-32.957,"Error trying to execute readMeasurement(): Not enough data received
+",-1.756
+0:12:42.982523,-106.394,-51.049,-32.99,"Error trying to execute readMeasurement(): Not enough data received
+",-1.689
+0:12:43.899015,-106.394,-51.082,-33.19,"Error trying to execute readMeasurement(): Not enough data received
+",-1.685
+0:12:44.814212,-106.362,-51.082,-33.256,"Error trying to execute readMeasurement(): Not enough data received
+",-1.717
+0:12:45.730623,-106.427,-51.148,-33.422,"Error trying to execute readMeasurement(): Not enough data received
+",-1.61
+0:12:46.646988,-106.427,-51.247,-33.456,"Error trying to execute readMeasurement(): Not enough data received
+",-1.741
+0:12:47.562216,-106.459,-51.214,-33.588,"Error trying to execute readMeasurement(): Not enough data received
+",-1.816
+0:12:47.562216,-106.291016,-50.920876,-32.886154,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:12:48.478557,-106.427,-51.28,-33.688,"Error trying to execute readMeasurement(): Not enough data received
+",-1.578
+0:12:49.394853,-106.459,-51.445,-33.788,"Error trying to execute readMeasurement(): Not enough data received
+",-1.776
+0:12:50.310051,-106.491,-51.478,-33.888,"Error trying to execute readMeasurement(): Not enough data received
+",-1.642
+0:12:51.226439,-106.491,-51.478,-33.921,"Error trying to execute readMeasurement(): Not enough data received
+",-1.669
+0:12:52.141582,-106.556,-51.478,-33.987,"Error trying to execute readMeasurement(): Not enough data received
+",-1.594
+0:12:53.057860,-106.62,-51.511,-34.087,"Error trying to execute readMeasurement(): Not enough data received
+",-1.689
+0:12:53.974365,-106.62,-51.577,-34.22,"Error trying to execute readMeasurement(): Not enough data received
+",-1.725
+0:12:54.889499,-106.653,-51.577,-34.319,"Error trying to execute readMeasurement(): Not enough data received
+",-1.658
+0:12:55.805964,-106.749,-51.676,-34.419,"Error trying to execute readMeasurement(): Not enough data received
+",-1.654
+0:12:56.722292,-106.62,-51.676,-34.519,"Error trying to execute readMeasurement(): Not enough data received
+",-1.543
+0:12:57.637429,-106.717,-51.709,-34.585,"Error trying to execute readMeasurement(): Not enough data received
+",-1.67
+0:12:58.553819,-106.782,-51.676,-34.751,"Error trying to execute readMeasurement(): Not enough data received
+",-1.706
+0:12:59.470182,-106.749,-51.676,-34.818,"Error trying to execute readMeasurement(): Not enough data received
+",-1.603
+0:13:00.385332,-106.814,-51.742,-34.884,"Error trying to execute readMeasurement(): Not enough data received
+",-1.666
+0:13:01.301788,-106.782,-51.742,-34.917,"Error trying to execute readMeasurement(): Not enough data received
+",-1.631
+0:13:01.301788,-106.62239,-51.56384,-34.29948,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:13:02.216882,-106.782,-51.808,-35.05,"Error trying to execute readMeasurement(): Not enough data received
+",-1.734
+0:13:03.133244,-106.846,-51.808,-35.15,"Error trying to execute readMeasurement(): Not enough data received
+",-1.635
+0:13:04.049675,-106.782,-51.841,-35.183,"Error trying to execute readMeasurement(): Not enough data received
+",-1.488
+0:13:04.964758,-106.943,-51.907,-35.283,"Error trying to execute readMeasurement(): Not enough data received
+",-1.647
+0:13:05.881152,-106.943,-51.94,-35.382,"Error trying to execute readMeasurement(): Not enough data received
+",-1.647
+0:13:06.797615,-106.943,-52.039,-35.449,"Error trying to execute readMeasurement(): Not enough data received
+",-1.682
+0:13:07.712426,-107.04,-51.973,-35.515,"Error trying to execute readMeasurement(): Not enough data received
+",-1.544
+0:13:08.629082,-107.007,-52.039,-35.582,"Error trying to execute readMeasurement(): Not enough data received
+",-1.746
+0:13:09.544227,-106.878,-52.006,-35.648,"Error trying to execute readMeasurement(): Not enough data received
+",-1.544
+0:13:10.460514,-106.814,-52.072,-35.714,"Error trying to execute readMeasurement(): Not enough data received
+",-1.781
+0:13:11.376906,-106.943,-52.072,-35.781,"Error trying to execute readMeasurement(): Not enough data received
+",-1.583
+0:13:12.292149,-106.975,-52.105,-35.88,"Error trying to execute readMeasurement(): Not enough data received
+",-1.54
+0:13:13.208537,-107.007,-52.204,-35.88,"Error trying to execute readMeasurement(): Not enough data received
+",-1.6
+0:13:14.124960,-106.943,-52.171,-35.98,"Error trying to execute readMeasurement(): Not enough data received
+",-1.702
+0:13:15.040078,-107.04,-52.27,-36.08,"Error trying to execute readMeasurement(): Not enough data received
+",-1.568
+0:13:15.040078,-106.94725,-52.01515,-35.546127,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:13:15.956470,-107.04,-52.237,-36.08,"Error trying to execute readMeasurement(): Not enough data received
+",-1.631
+0:13:16.871634,-107.072,-52.304,-36.279,"Error trying to execute readMeasurement(): Not enough data received
+",-1.631
+0:13:17.787806,-107.072,-52.37,-36.378,"Error trying to execute readMeasurement(): Not enough data received
+",-1.631
+0:13:18.704422,-107.04,-52.37,-36.478,"Error trying to execute readMeasurement(): Not enough data received
+",-1.631
+0:13:19.619548,-107.104,-52.436,-36.578,"Error trying to execute readMeasurement(): Not enough data received
+",-1.631
+0:13:20.535940,-107.104,-52.502,-36.71,"Error trying to execute readMeasurement(): Not enough data received
+",-1.631
+0:13:21.452314,-107.137,-52.601,-36.71,"Error trying to execute readMeasurement(): Not enough data received
+",-1.56
+0:13:22.367430,-107.169,-52.7,-36.876,"Error trying to execute readMeasurement(): Not enough data received
+",-1.588
+0:13:23.283813,-107.201,-52.7,-36.876,"Error trying to execute readMeasurement(): Not enough data received
+",-1.549
+0:13:24.199056,-107.233,-52.766,-37.042,"Error trying to execute readMeasurement(): Not enough data received
+",-1.505
+0:13:25.115389,-107.33,-52.733,-37.076,"Error trying to execute readMeasurement(): Not enough data received
+",-1.6
+0:13:26.031780,-107.33,-52.766,-37.208,"Error trying to execute readMeasurement(): Not enough data received
+",-1.6
+0:13:26.946946,-107.33,-52.898,-37.208,"Error trying to execute readMeasurement(): Not enough data received
+",-1.672
+0:13:27.863274,-107.459,-52.997,-37.308,"Error trying to execute readMeasurement(): Not enough data received
+",-1.501
+0:13:28.779696,-107.362,-52.964,-37.374,"Error trying to execute readMeasurement(): Not enough data received
+",-1.525
+0:13:28.779696,-107.201065,-52.60943,-36.787815,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:13:29.694795,-107.362,-52.997,-37.441,"Error trying to execute readMeasurement(): Not enough data received
+",-1.518
+0:13:30.611222,-107.524,-53.096,-37.507,"Error trying to execute readMeasurement(): Not enough data received
+",-1.545
+0:13:31.527629,-107.588,-53.096,-37.507,"Error trying to execute readMeasurement(): Not enough data received
+",-1.648
+0:13:32.442780,-107.524,-53.162,-37.673,"Error trying to execute readMeasurement(): Not enough data received
+",-1.478
+0:13:33.359130,-107.491,-53.195,-37.772,"Error trying to execute readMeasurement(): Not enough data received
+",-1.609
+0:13:34.274296,-107.588,-53.228,-37.872,"Error trying to execute readMeasurement(): Not enough data received
+",-1.506
+0:13:35.190689,-107.588,-53.228,-37.905,"Error trying to execute readMeasurement(): Not enough data received
+",-1.498
+0:13:36.107092,-107.653,-53.294,-38.038,"Error trying to execute readMeasurement(): Not enough data received
+",-1.562
+0:13:37.022207,-107.685,-53.261,-38.137,"Error trying to execute readMeasurement(): Not enough data received
+",-1.562
+0:13:37.938622,-107.75,-53.294,-38.204,"Error trying to execute readMeasurement(): Not enough data received
+",-1.526
+0:13:38.854995,-107.814,-53.228,-38.204,"Error trying to execute readMeasurement(): Not enough data received
+",-1.415
+0:13:39.770191,-107.879,-53.393,-38.303,"Error trying to execute readMeasurement(): Not enough data received
+",-1.614
+0:13:40.686547,-107.911,-53.327,-38.303,"Error trying to execute readMeasurement(): Not enough data received
+",-1.479
+0:13:41.601734,-107.911,-53.36,-38.37,"Error trying to execute readMeasurement(): Not enough data received
+",-1.507
+0:13:42.518095,-107.943,-53.459,-38.502,"Error trying to execute readMeasurement(): Not enough data received
+",-1.467
+0:13:42.518095,-107.66132,-53.225605,-37.967064,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:13:43.434445,-108.04,-53.525,-38.602,"Error trying to execute readMeasurement(): Not enough data received
+",-1.353
+0:13:44.349665,-108.04,-53.525,-38.668,"Error trying to execute readMeasurement(): Not enough data received
+",-1.547
+0:13:45.266019,-108.072,-53.558,-38.701,"Error trying to execute readMeasurement(): Not enough data received
+",-1.444
+0:13:46.182399,-108.137,-53.723,-38.834,"Error trying to execute readMeasurement(): Not enough data received
+",-1.472
+0:13:47.097601,-108.104,-53.822,-38.9,"Error trying to execute readMeasurement(): Not enough data received
+",-1.539
+0:13:48.013899,-108.201,-53.822,-39.099,"Error trying to execute readMeasurement(): Not enough data received
+",-1.436
+0:13:48.929052,-108.137,-53.822,-39.066,"Error trying to execute readMeasurement(): Not enough data received
+",-1.5
+0:13:49.845465,-108.201,-53.855,-39.199,"Error trying to execute readMeasurement(): Not enough data received
+",-1.464
+0:13:50.761847,-108.266,-53.987,-39.199,"Error trying to execute readMeasurement(): Not enough data received
+",-1.46
+0:13:51.676906,-108.233,-53.855,-39.298,"Error trying to execute readMeasurement(): Not enough data received
+",-1.528
+0:13:52.593399,-108.362,-53.987,-39.332,"Error trying to execute readMeasurement(): Not enough data received
+",-1.425
+0:13:53.509727,-108.266,-53.855,-39.398,"Error trying to execute readMeasurement(): Not enough data received
+",-1.453
+0:13:54.424906,-108.362,-53.921,-39.398,"Error trying to execute readMeasurement(): Not enough data received
+",-1.449
+0:13:55.341311,-108.395,-53.888,-39.531,"Error trying to execute readMeasurement(): Not enough data received
+",-1.409
+0:13:56.256484,-108.427,-53.954,-39.663,"Error trying to execute readMeasurement(): Not enough data received
+",-1.437
+0:13:56.256484,-108.209625,-53.79105,-39.10826,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:13:57.172820,-108.491,-53.987,-39.73,"Error trying to execute readMeasurement(): Not enough data received
+",-1.398
+0:13:58.089214,-108.459,-53.987,-39.763,"Error trying to execute readMeasurement(): Not enough data received
+",-1.426
+0:13:59.004372,-108.523,-54.053,-39.862,"Error trying to execute readMeasurement(): Not enough data received
+",-1.493
+0:13:59.920813,-108.523,-54.218,-39.862,"Error trying to execute readMeasurement(): Not enough data received
+",-1.426
+0:14:00.837191,-108.556,-54.251,-39.929,"Error trying to execute readMeasurement(): Not enough data received
+",-1.351
+0:14:01.752278,-108.62,-54.317,-39.995,"Error trying to execute readMeasurement(): Not enough data received
+",-1.446
+0:14:02.668729,-108.62,-54.317,-40.028,"Error trying to execute readMeasurement(): Not enough data received
+",-1.41
+0:14:03.585029,-108.652,-54.284,-40.227,"Error trying to execute readMeasurement(): Not enough data received
+",-1.406
+0:14:04.500221,-108.814,-54.284,-40.293,"Error trying to execute readMeasurement(): Not enough data received
+",-1.438
+0:14:05.416614,-108.749,-54.383,-40.326,"Error trying to execute readMeasurement(): Not enough data received
+",-1.296
+0:14:06.331756,-108.91,-54.482,-40.426,"Error trying to execute readMeasurement(): Not enough data received
+",-1.28
+0:14:07.248113,-108.781,-54.548,-40.592,"Error trying to execute readMeasurement(): Not enough data received
+",-1.478
+0:14:08.164527,-108.878,-54.581,-40.625,"Error trying to execute readMeasurement(): Not enough data received
+",-1.379
+0:14:09.079679,-108.878,-54.548,-40.724,"Error trying to execute readMeasurement(): Not enough data received
+",-1.411
+0:14:09.996090,-108.91,-54.614,-40.757,"Error trying to execute readMeasurement(): Not enough data received
+",-1.375
+0:14:09.996090,-108.712654,-54.314575,-40.21807,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:14:10.912484,-108.943,-54.647,-40.857,"Error trying to execute readMeasurement(): Not enough data received
+",-1.442
+0:14:11.827602,-109.007,-54.713,-40.923,"Error trying to execute readMeasurement(): Not enough data received
+",-1.268
+0:14:12.743985,-109.104,-54.779,-41.056,"Error trying to execute readMeasurement(): Not enough data received
+",-1.36
+0:14:13.659149,-109.104,-54.746,-41.089,"Error trying to execute readMeasurement(): Not enough data received
+",-1.32
+0:14:14.575505,-109.2,-54.779,-41.089,"Error trying to execute readMeasurement(): Not enough data received
+",-1.348
+0:14:15.491935,-109.2,-54.812,-41.188,"Error trying to execute readMeasurement(): Not enough data received
+",-1.309
+0:14:16.407088,-109.265,-54.845,-41.288,"Error trying to execute readMeasurement(): Not enough data received
+",-1.336
+0:14:17.323431,-109.362,-54.878,-41.321,"Error trying to execute readMeasurement(): Not enough data received
+",-1.262
+0:14:18.239820,-109.458,-54.944,-41.354,"Error trying to execute readMeasurement(): Not enough data received
+",-1.286
+0:14:19.154950,-109.587,-54.977,-41.42,"Error trying to execute readMeasurement(): Not enough data received
+",-1.171
+0:14:20.071340,-109.716,-55.043,-41.553,"Error trying to execute readMeasurement(): Not enough data received
+",-1.294
+0:14:20.986573,-109.684,-55.01,-41.553,"Error trying to execute readMeasurement(): Not enough data received
+",-1.219
+0:14:21.902896,-109.813,-55.076,-41.685,"Error trying to execute readMeasurement(): Not enough data received
+",-1.279
+0:14:22.819303,-109.909,-55.108,-41.719,"Error trying to execute readMeasurement(): Not enough data received
+",-1.168
+0:14:23.734454,-110.006,-55.108,-41.785,"Error trying to execute readMeasurement(): Not enough data received
+",-1.223
+0:14:23.734454,-109.40677,-54.89739,-41.30759,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:14:24.650806,-110.199,-55.108,-41.851,"Error trying to execute readMeasurement(): Not enough data received
+",-1.039
+0:14:25.567197,-110.264,-55.108,-41.851,"Error trying to execute readMeasurement(): Not enough data received
+",-1.224
+0:14:26.482387,-110.361,-55.141,-41.917,"Error trying to execute readMeasurement(): Not enough data received
+",-1.114
+0:14:27.398767,-110.489,-55.24,-41.951,"Error trying to execute readMeasurement(): Not enough data received
+",-1.134
+0:14:28.313947,-110.586,-55.273,-42.116,"Error trying to execute readMeasurement(): Not enough data received
+",-1.122
+0:14:29.230269,-110.683,-55.306,-42.149,"Error trying to execute readMeasurement(): Not enough data received
+",-0.969
+0:14:30.146660,-110.811,-55.339,-42.249,"Error trying to execute readMeasurement(): Not enough data received
+",-1.155
+0:14:31.061889,-110.876,-55.339,-42.348,"Error trying to execute readMeasurement(): Not enough data received
+",-1.115
+0:14:31.978272,-110.908,-55.372,-42.381,"Error trying to execute readMeasurement(): Not enough data received
+",-1.143
+0:14:32.894553,-111.037,-55.405,-42.481,"Error trying to execute readMeasurement(): Not enough data received
+",-1.033
+0:14:33.809754,-111.069,-55.471,-42.547,"Error trying to execute readMeasurement(): Not enough data received
+",-1.053
+0:14:34.726125,-111.198,-55.57,-42.646,"Error trying to execute readMeasurement(): Not enough data received
+",-1.006
+0:14:35.642507,-111.327,-55.537,-42.746,"Error trying to execute readMeasurement(): Not enough data received
+",-1.061
+0:14:36.557655,-111.391,-55.636,-42.746,"Error trying to execute readMeasurement(): Not enough data received
+",-0.983
+0:14:37.474107,-111.456,-55.537,-42.845,"Error trying to execute readMeasurement(): Not enough data received
+",-1.074
+0:14:37.474107,-110.82647,-55.359142,-42.317177,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:14:38.389166,-111.616,-55.537,-42.845,"Error trying to execute readMeasurement(): Not enough data received
+",-0.928
+0:14:39.305577,-111.616,-55.636,-42.911,"Error trying to execute readMeasurement(): Not enough data received
+",-0.98
+0:14:40.221969,-111.777,-55.636,-42.878,"Error trying to execute readMeasurement(): Not enough data received
+",-1.039
+0:14:41.137084,-111.81,-55.669,-43.044,"Error trying to execute readMeasurement(): Not enough data received
+",-0.928
+0:14:42.053590,-112.003,-55.702,-43.044,"Error trying to execute readMeasurement(): Not enough data received
+",-1.02
+0:14:42.969928,-112.132,-55.735,-43.143,"Error trying to execute readMeasurement(): Not enough data received
+",-0.98
+0:14:43.885046,-112.26,-55.834,-43.143,"Error trying to execute readMeasurement(): Not enough data received
+",-0.83
+0:14:44.801463,-112.292,-55.768,-43.176,"Error trying to execute readMeasurement(): Not enough data received
+",-0.879
+0:14:45.716543,-112.486,-55.867,-43.243,"Error trying to execute readMeasurement(): Not enough data received
+",-0.898
+0:14:46.632972,-112.55,-55.867,-43.342,"Error trying to execute readMeasurement(): Not enough data received
+",-0.745
+0:14:47.549359,-112.743,-55.9,-43.408,"Error trying to execute readMeasurement(): Not enough data received
+",-1.002
+0:14:48.464537,-112.743,-55.834,-43.574,"Error trying to execute readMeasurement(): Not enough data received
+",-0.757
+0:14:49.380881,-112.872,-55.9,-43.541,"Error trying to execute readMeasurement(): Not enough data received
+",-0.912
+0:14:50.297282,-113.0,-55.966,-43.673,"Error trying to execute readMeasurement(): Not enough data received
+",-0.766
+0:14:51.212384,-113.0,-56.032,-43.706,"Error trying to execute readMeasurement(): Not enough data received
+",-0.888
+0:14:51.212384,-112.29453,-55.801044,-43.229267,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:14:52.128839,-113.161,-56.032,-43.64,"Error trying to execute readMeasurement(): Not enough data received
+",-0.814
+0:14:53.044081,-113.226,-55.966,-43.806,"Error trying to execute readMeasurement(): Not enough data received
+",-0.766
+0:14:53.960358,-113.258,-56.098,-43.839,"Error trying to execute readMeasurement(): Not enough data received
+",-0.822
+0:14:54.876744,-113.386,-56.131,-43.905,"Error trying to execute readMeasurement(): Not enough data received
+",-0.779
+0:14:55.791897,-113.483,-56.131,-43.938,"Error trying to execute readMeasurement(): Not enough data received
+",-0.767
+0:14:56.708254,-113.547,-56.065,-43.938,"Error trying to execute readMeasurement(): Not enough data received
+",-0.791
+0:14:57.624698,-113.611,-56.065,-44.07,"Error trying to execute readMeasurement(): Not enough data received
+",-0.748
+0:14:58.539787,-113.74,-56.197,-44.137,"Error trying to execute readMeasurement(): Not enough data received
+",-0.807
+0:14:59.456199,-113.772,-56.23,-44.236,"Error trying to execute readMeasurement(): Not enough data received
+",-0.768
+0:15:00.371348,-113.837,-56.296,-44.236,"Error trying to execute readMeasurement(): Not enough data received
+",-0.796
+0:15:01.287690,-113.933,-56.329,-44.302,"Error trying to execute readMeasurement(): Not enough data received
+",-0.721
+0:15:02.204101,-113.965,-56.395,-44.402,"Error trying to execute readMeasurement(): Not enough data received
+",-0.674
+0:15:03.119318,-114.062,-56.329,-44.402,"Error trying to execute readMeasurement(): Not enough data received
+",-0.765
+0:15:04.035673,-114.126,-56.329,-44.435,"Error trying to execute readMeasurement(): Not enough data received
+",-0.655
+0:15:04.952061,-114.287,-56.526,-44.501,"Error trying to execute readMeasurement(): Not enough data received
+",-0.639
+0:15:04.952061,-113.68007,-56.207706,-44.125618,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:15:05.867292,-114.447,-56.526,-44.633,"Error trying to execute readMeasurement(): Not enough data received
+",-0.624
+0:15:06.783420,-114.576,-56.658,-44.666,"Error trying to execute readMeasurement(): Not enough data received
+",-0.644
+0:15:07.699949,-114.673,-56.625,-44.733,"Error trying to execute readMeasurement(): Not enough data received
+",-0.562
+0:15:08.615055,-114.737,-56.625,-44.733,"Error trying to execute readMeasurement(): Not enough data received
+",-0.755
+0:15:09.531461,-114.865,-56.691,-44.865,"Error trying to execute readMeasurement(): Not enough data received
+",-0.546
+0:15:10.446638,-114.865,-56.691,-44.865,"Error trying to execute readMeasurement(): Not enough data received
+",-0.562
+0:15:11.363024,-115.058,-56.889,-44.964,"Error trying to execute readMeasurement(): Not enough data received
+",-0.688
+0:15:12.279411,-115.026,-56.691,-44.997,"Error trying to execute readMeasurement(): Not enough data received
+",-0.547
+0:15:13.194578,-115.187,-56.79,-44.997,"Error trying to execute readMeasurement(): Not enough data received
+",-0.638
+0:15:14.110973,-115.251,-56.889,-44.997,"Error trying to execute readMeasurement(): Not enough data received
+",-0.563
+0:15:15.027398,-115.283,-56.856,-45.13,"Error trying to execute readMeasurement(): Not enough data received
+",-0.658
+0:15:15.942487,-115.38,-56.988,-45.163,"Error trying to execute readMeasurement(): Not enough data received
+",-0.516
+0:15:16.858737,-115.54,-56.955,-45.262,"Error trying to execute readMeasurement(): Not enough data received
+",-0.501
+0:15:17.774057,-115.54,-57.021,-45.295,"Error trying to execute readMeasurement(): Not enough data received
+",-0.556
+0:15:18.690410,-115.637,-56.988,-45.395,"Error trying to execute readMeasurement(): Not enough data received
+",-0.513
+0:15:18.690410,-115.01961,-56.79231,-44.955494,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:15:19.606773,-115.637,-57.021,-45.328,"Error trying to execute readMeasurement(): Not enough data received
+",-0.537
+0:15:20.521967,-115.733,-57.021,-45.527,"Error trying to execute readMeasurement(): Not enough data received
+",-0.493
+0:15:21.438388,-115.829,-57.054,-45.56,"Error trying to execute readMeasurement(): Not enough data received
+",-0.553
+0:15:22.354731,-115.861,-57.12,-45.692,"Error trying to execute readMeasurement(): Not enough data received
+",-0.513
+0:15:23.269868,-115.926,-57.153,-45.659,"Error trying to execute readMeasurement(): Not enough data received
+",-0.47
+0:15:24.186237,-116.054,-57.087,-45.759,"Error trying to execute readMeasurement(): Not enough data received
+",-0.494
+0:15:25.101401,-116.118,-57.186,-45.891,"Error trying to execute readMeasurement(): Not enough data received
+",-0.486
+0:15:26.017840,-116.118,-57.186,-45.891,"Error trying to execute readMeasurement(): Not enough data received
+",-0.479
+0:15:26.934098,-116.247,-57.317,-45.957,"Error trying to execute readMeasurement(): Not enough data received
+",-0.4
+0:15:27.849437,-116.279,-57.252,-45.99,"Error trying to execute readMeasurement(): Not enough data received
+",-0.527
+0:15:28.765695,-116.343,-57.252,-45.99,"Error trying to execute readMeasurement(): Not enough data received
+",-0.491
+0:15:29.682172,-116.472,-57.317,-46.023,"Error trying to execute readMeasurement(): Not enough data received
+",-0.417
+0:15:30.597206,-116.536,-57.449,-46.023,"Error trying to execute readMeasurement(): Not enough data received
+",-0.44
+0:15:31.513662,-116.632,-57.383,-46.023,"Error trying to execute readMeasurement(): Not enough data received
+",-0.433
+0:15:32.428805,-116.696,-57.449,-46.123,"Error trying to execute readMeasurement(): Not enough data received
+",-0.354
+0:15:32.428805,-116.15052,-57.21419,-45.82263,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:15:33.345118,-116.857,-57.515,-46.189,"Error trying to execute readMeasurement(): Not enough data received
+",-0.48
+0:15:34.261550,-116.825,-57.581,-46.222,"Error trying to execute readMeasurement(): Not enough data received
+",-0.233
+0:15:35.176650,-116.953,-57.548,-46.321,"Error trying to execute readMeasurement(): Not enough data received
+",-0.453
+0:15:36.092833,-117.05,-57.482,-46.42,"Error trying to execute readMeasurement(): Not enough data received
+",-0.276
+0:15:37.009521,-117.146,-57.581,-46.42,"Error trying to execute readMeasurement(): Not enough data received
+",-0.363
+0:15:37.924551,-117.21,-57.647,-46.553,"Error trying to execute readMeasurement(): Not enough data received
+",-0.355
+0:15:38.840983,-117.274,-57.614,-46.553,"Error trying to execute readMeasurement(): Not enough data received
+",-0.348
+0:15:39.757372,-117.403,-57.68,-46.619,"Error trying to execute readMeasurement(): Not enough data received
+",-0.199
+0:15:40.672282,-117.499,-57.746,-46.685,"Error trying to execute readMeasurement(): Not enough data received
+",-0.388
+0:15:41.588794,-117.563,-57.746,-46.718,"Error trying to execute readMeasurement(): Not enough data received
+",-0.317
+0:15:42.403407,-117.627,-57.713,-46.751,"d
+",-0.184
+0:15:43.318517,-117.82,-57.812,-46.817,"Error trying to execute readMeasurement(): Not enough data received
+",-0.29
+0:15:44.234882,-117.852,-57.845,-46.784,"Error trying to execute readMeasurement(): Not enough data received
+",-0.247
+0:15:45.150181,-117.948,-57.911,-46.817,"Error trying to execute readMeasurement(): Not enough data received
+",-0.2
+0:15:46.066302,-118.045,-57.911,-46.817,"Error trying to execute readMeasurement(): Not enough data received
+",-0.255
+0:15:46.066302,-117.37062,-57.655796,-46.561596,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:15:46.982767,-118.205,-58.009,-46.917,"Error trying to execute readMeasurement(): Not enough data received
+",-0.177
+0:15:47.897619,-118.237,-58.108,-47.016,"Error trying to execute readMeasurement(): Not enough data received
+",-0.232
+0:15:48.814348,-118.301,-58.141,-47.082,"Error trying to execute readMeasurement(): Not enough data received
+",-0.189
+0:15:49.730666,-118.333,-58.141,-47.016,"Error trying to execute readMeasurement(): Not enough data received
+",-0.142
+0:15:50.645845,-118.43,-58.141,-47.148,"Error trying to execute readMeasurement(): Not enough data received
+",-0.304
+0:15:51.562208,-118.526,-58.24,-47.148,"Error trying to execute readMeasurement(): Not enough data received
+",-0.095
+0:15:52.477416,-118.558,-58.207,-47.181,"Error trying to execute readMeasurement(): Not enough data received
+",-0.147
+0:15:53.393789,-118.686,-58.306,-47.247,"Error trying to execute readMeasurement(): Not enough data received
+",-0.277
+0:15:54.310131,-118.782,-58.339,-47.281,"Error trying to execute readMeasurement(): Not enough data received
+",0.002
+0:15:55.225312,-118.815,-58.405,-47.38,"Error trying to execute readMeasurement(): Not enough data received
+",-0.183
+0:15:56.141519,-118.943,-58.471,-47.413,"Error trying to execute readMeasurement(): Not enough data received
+",-0.179
+0:15:57.058090,-119.039,-58.57,-47.446,"Error trying to execute readMeasurement(): Not enough data received
+",-0.175
+0:15:57.973189,-119.071,-58.668,-47.479,"Error trying to execute readMeasurement(): Not enough data received
+",-0.101
+0:15:58.889525,-119.167,-58.701,-47.644,"Error trying to execute readMeasurement(): Not enough data received
+",-0.089
+0:15:59.804722,-119.199,-58.635,-47.644,"Error trying to execute readMeasurement(): Not enough data received
+",-0.042
+0:15:59.804722,-118.68836,-58.338917,-47.271694,"Error trying to execute readMeasurement(): Not enough data received
+"
+0:16:00.721107,-119.296,-58.734,-47.677,"Error trying to execute readMeasurement(): Not enough data received
+",-0.168
+0:16:01.637591,-119.296,-58.8,-47.777,"Error trying to execute readMeasurement(): Not enough data received
+",-0.098
+0:16:02.551992,-119.392,-58.767,-47.777,"Error trying to execute readMeasurement(): Not enough data received
+",-0.09
+0:16:03.468781,-119.52,-58.833,-47.942,"Error trying to execute readMeasurement(): Not enough data received
+",-0.082
+0:16:04.385189,-119.648,-58.866,-47.909,"Error trying to execute readMeasurement(): Not enough data received
+",-0.038
+0:16:05.197080,-119.584,-59.031,-47.843,"Error trying to execute readMeasurement(): Not enough data received
+",-0.134
+0:16:06.011974,-119.616,-58.965,-47.942,"Error trying to execute readMeasurement(): Not enough data received
+",0.063
+0:16:06.826783,-119.648,-58.965,-47.975,"Error trying to execute readMeasurement(): Not enough data received
+",-0.154
+0:16:07.641513,-119.777,-59.064,-47.975,"Error trying to execute readMeasurement(): Not enough data received
+",-0.079
+0:16:08.456341,-119.841,-58.998,-48.008,"Error trying to execute readMeasurement(): Not enough data received
+",0.003
+0:16:09.269621,-120.001,-59.031,-48.107,"Error trying to execute readMeasurement(): Not enough data received
+",-0.064
+0:16:10.185813,-119.905,-59.162,-48.173,"Error trying to execute readMeasurement(): Not enough data received
+",0.043
+0:16:11.000064,-120.001,-59.097,-48.173,"Error trying to execute readMeasurement(): Not enough data received
+",-0.044
+0:16:11.814745,-120.033,-59.195,-48.306,"Error trying to execute readMeasurement(): Not enough data received
+",0.038
+0:16:12.626710,-120.129,-59.162,-48.339,"Error trying to execute readMeasurement(): Not enough data received
+",0.011
+0:16:12.626710,-119.7017,-58.93844,-47.98604,"Error trying to execute readMeasurement(): Not enough data received
+"
