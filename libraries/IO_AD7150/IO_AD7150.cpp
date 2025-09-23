@@ -15,7 +15,7 @@ void IO_AD7150::begin()
 {
   Wire.begin();
 
-  
+ 
 }
 
 void IO_AD7150::writeRegister(uint8_t reg, uint16_t value)
@@ -26,6 +26,9 @@ void IO_AD7150::writeRegister(uint8_t reg, uint16_t value)
   Wire.write(value);
   Wire.endTransmission();
   delay(4); //Wait a little bit that the change is effective
+ 
+  digitalWrite(A4, LOW);
+  digitalWrite(A5, LOW);
 }
 
 void IO_AD7150::setup()
@@ -108,21 +111,21 @@ AD7150_Values IO_AD7150::getValue(void)
 
   // Use a switch to map the 2-bit value
   switch (index) {
-      case 0b00: 
-          inputRangePF = 2.0; 
-          // capdacStep = 4; 
+      case 0b00:
+          inputRangePF = 2.0;
+          // capdacStep = 4;
           break;
-      case 0b01: 
-          inputRangePF = 0.5; 
-          // capdacStep = 1; 
+      case 0b01:
+          inputRangePF = 0.5;
+          // capdacStep = 1;
           break;
-      case 0b10: 
-          inputRangePF = 1.0; 
-          // capdacStep = 2; 
+      case 0b10:
+          inputRangePF = 1.0;
+          // capdacStep = 2;
           break;
-      case 0b11: 
-          inputRangePF = 4.0; 
-          // capdacStep = 8; 
+      case 0b11:
+          inputRangePF = 4.0;
+          // capdacStep = 8;
           break;
   }
 
