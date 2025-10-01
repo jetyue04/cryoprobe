@@ -127,10 +127,26 @@ if __name__ == "__main__":
         line_ceramic.set_data(time_data, ceramic_data)
         line_cap.set_data(time_data, cap_data)
 
-        ax_temp.relim()
-        ax_temp.autoscale_view()
-        ax_cap.relim()
-        ax_cap.autoscale_view()
+        # ax_temp.relim()
+        # ax_temp.autoscale_view()
+        # ax_cap.relim()
+        # ax_cap.autoscale_view()
+
+        # X-axis rolling window
+        if time_data:
+            ax_temp.set_xlim(time_data[0], time_data[-1])
+            ax_cap.set_xlim(time_data[0], time_data[-1])
+
+        # Y-axis ±1 around current min/max
+        if tip_data and ceramic_data:
+            t_min = min(min(tip_data), min(ceramic_data))
+            t_max = max(max(tip_data), max(ceramic_data))
+            ax_temp.set_ylim(t_min - 1, t_max + 1)
+
+        if cap_data:
+            c_min = min(cap_data)
+            c_max = max(cap_data)
+            ax_cap.set_ylim(c_min - 1, c_max + 1)
 
         plt.pause(0.01)
 
